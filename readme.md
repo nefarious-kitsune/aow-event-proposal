@@ -6,7 +6,8 @@
 * A welcome event for new players  (unlocks at level 1,000)
 * The player will be given a temporary barrack with some troops
 * The player will be using a 5x5 grid formation
-* Once the event is started, the player must complete it in **7 days** to receive all rewards
+* Once the event is started, the player must complete it in
+**6 days** to receive all rewards
 
 ### Day 1 Welcome
 
@@ -14,7 +15,7 @@ Welcome. I am **Kit**, the Academy Director.
 
 Congratulation on reaching level 1000. But do you have what it takes to be
 a successful commander? I have prepared a series of tests. If you can pass
-these tests in **7** days, you will be accepted into the Academy and be
+these tests in **6** days, you will be accepted into the Academy and be
 awarded with Hohenheim shards. **[START]**
  
 ----
@@ -101,3 +102,19 @@ Good job.
 
 Here are some Goblikazes. They will help you immensely in the future.
 **REWARD: 4-star Goblikazes**
+
+### Day 6 Final Test
+
+Today is the big day.
+
+You will be playing against a strong army with 7x7 grid. Use everything
+you have learned so far in the battle. **[BATTLE]**
+
+----
+Well, maybe the test is too easy. Here is another enemy formation
+that you must defeat. **[BATTLE]**
+
+----
+Awesome. Looks like you have what it takes to be a real commander.
+
+We will see you in battlefield! **REWARD: 3 Hohenheim shards**
