@@ -8,6 +8,8 @@
 * Once the event is started, the player must complete it in
 **6 days** to receive all rewards
 
+**Character**: Kit
+
 ### Stage 1 - Welcome
 
 > Welcome. I am Catherine, the Academy Director. You may call me Kit.
@@ -21,7 +23,9 @@
 
 ----
 > I have loaned you some troops. Use them to defeat the enemy.
- 
+
+*Defeat the enemy*
+
 **[BATTLE]**
 
 ----
@@ -31,13 +35,15 @@
 
 **REWARD: 10 gems**
 
-### Stage 2 The Basics
+### Stage 2 - The Basics
 
 > Welcome again.
 
 > Today you will face a tougher enemy. Upgrade your troops by merging
 > them and battle.
- 
+
+*Defeat the enemy*
+
 **[BATTLE]**
 
 
@@ -45,6 +51,8 @@
 > In battle, ranged troops such as Archers can deal damage to enemy quickly,
 > but they must be protected by melee troops. Place your Infantry at front
 > and Archers at the back.'
+
+*Defeat the enemy without a single Archer killed*
 
 **[BATTLE]**
 
@@ -55,23 +63,32 @@
  
 **REWARD: 4-star Archers**
 
-### Day 3 Hero
+### Stage 3 - Hero
 
-Sometimes, having the best troops is not enough. Use a hero to boost
-the attack power of your troops. **[BATTLE]** (*Player is given a
-level-3 Hohenheim to use*)
+> Sometimes, having the best troops is not enough. Use a hero to boost
+> the attack power of your troops.
 
-----
-Do you know, Hohenheim not only increases the attack power of your troops,
-but also increases the coin drop of defeated enemy?
+(*Player is given a level-3 Hohenheim to use*)
 
-Battle again and see the coin drop bonus. **[BATTLE]**
+**[BATTLE]** 
 
 ----
-See the coin drop bonus?
+> Do you know, Hohenheim not only increases the attack power of your troops,
+> but also increases the coin drop of defeated enemy?
 
-Here are some Hohenheim shards. Use the hero in your leveling to increase
-your coin earning. **REWARD: 3 Hohenheim shards**
+> Battle again and see the coin drop bonus.
+
+*Defeat the enemy*
+
+**[BATTLE]**
+
+----
+> See the coin drop bonus?
+
+> Here are some Hohenheim shards. Use the hero in your leveling to increase
+> your coin earning.
+ 
+**REWARD: 3 Hohenheim shards**
 
 ### Day 4 - Ambush
 
@@ -80,6 +97,8 @@ your coin earning. **REWARD: 3 Hohenheim shards**
 > Ghost Assassins can blink to the back of the enemy. Use Use Ghost Assassins
 > to take out the enemy's Archers quickly.
 
+*Defeat the enemy while using Ghost Assassins*
+
 **[BATTLE]**
 
 ----
@@ -87,7 +106,9 @@ your coin earning. **REWARD: 3 Hohenheim shards**
 
 > Move some melee troops to your back-line to protect your Archers. And move
 > your hero to the side.
- 
+
+*Defeat the enemy without a single Archer killed*
+
 **[BATTLE]**
 
 ----
@@ -128,16 +149,26 @@ your coin earning. **REWARD: 3 Hohenheim shards**
 
 ### Day 6 Final Test
 
-Today is the big day.
+> Today is the big day.
 
-You will be playing against a strong army with 7x7 grid. Use everything
-you have learned so far in the battle. **[BATTLE]**
+> You will be playing against a strong army with 7x7 grid. Use everything
+> you have learned so far in the battle.
+
+*Defeat the enemy*
+
+**[BATTLE]**
 
 ----
-Well, maybe the test is too easy. Here is another enemy formation
-that you must defeat. **[BATTLE]**
+> Well, maybe the test is too easy. Here is another enemy formation
+> that you must defeat.
+
+*Defeat the enemy*
+
+**[BATTLE]**
 
 ----
-Awesome. Looks like you have what it takes to be a real commander.
+> Awesome. Looks like you have what it takes to be a real commander.
 
-We will see you in battlefield! **REWARD: 3 Hohenheim shards**
+> We will see you in battlefield!
+
+**REWARD: 3 Hohenheim shards**
