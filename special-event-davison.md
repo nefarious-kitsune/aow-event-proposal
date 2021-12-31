@@ -41,7 +41,7 @@
 
 > More challenges will come. Take a rest.
 
-**REWARD: 10 gems**
+**REWARD: 50 gems, 10k coins**
 
 ### Stage 2 - Reflection
 
@@ -69,7 +69,7 @@
 
 > Tomorrow we will move to another arena. Take a good rest.
  
-**REWARD: 4-star Taurus Witcher**
+**REWARD: 100 gems, 4-star Taurus Witcher**
 
 ### Stage 3 - The Garden
 
@@ -100,7 +100,7 @@
 > That was an impressive battle. We have a real successful exhibition.
 > To show my appreciation, here is a Stone Golem.
 
-**Rewards: 4-star Stone Golem**
+**Rewards: 200 gems, 4-star Stone Golem**
 
 ## Stage 4 - Tea Party
 
