@@ -1,4 +1,4 @@
-## The Academy
+## Davison Special Event
 
 [中文](special-event-davison.zh.md)
 
@@ -72,5 +72,42 @@
  
 **REWARD: 4-star Taurus Witcher**
 
-### Stage 3 - 
+### Stage 3 - The Garden
+
+> We are at the **Wandering Night Garden**. Let's do a exhibition battle for the locals.
+
+*Defeat the enemy*
+
+----
+
+> The locals have sent Genichiro to challenge you. We shall be curteous.
+> The battle time is two minutes. Drag out the whole battle but don't beat your challenger.
+
+*Battle for 120 seconds without beating the challenger*
+
+**[BATTLE]**
+
+----
+
+> That was an epic battle. The locals are thrilled and wanted more.
+> The battle time is now three minutes. Remember not to beat your challenger.
+
+*Battle for 180 seconds without beating the challenger*
+
+**[BATTLE]**
+
+----
+
+> That was an impressive battle. We have a real successful exhibition.
+> To show my appreciation, here is a Stone Golem.
+
+**Rewards: 4-star Stone Golem**
+
+## Stage 4 - ????
+
+> (no content yet)
+
+## Stage 5 - ???
+
+> (no content yet)
 
