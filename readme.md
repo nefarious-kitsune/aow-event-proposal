@@ -18,4 +18,4 @@ Once entered, the player has exactly 5 days (24 x 5 hours) to complete it.
 These are time-limited events that players can complete to win
 new content, such as hero and troops.
 
-* 
+* [Davison](special-event-davison.md)
