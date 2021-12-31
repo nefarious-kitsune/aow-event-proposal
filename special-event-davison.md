@@ -129,7 +129,7 @@
 > Finally, we are up against Horus, yet another winged hero. Can Davison truely
 > claim to be the superior flying hero?
 
-* Defeat the enemy
+*Defeat the enemy
 
 **[BATTLE]**
 
@@ -142,10 +142,41 @@
 
 **Rewards: 1 Harrison shard, 1 Mephisto shard, 1 Horus shard**
 
-## Stage 5 - ???
+## Stage 5 - Dragon Supreme
 
-> (no content yet)
-> 
+> I have planned to have a tournment to have all candidates play against each
+> other. Unfortunately, the notorious Davison commander **Bao** came uninvited,
+> and he beat all other constestants. So today it will just be you and Bao.
+
+----
+
+> Be warned. Bao is a really strong Davison commander. Can you beat him?
+
+*Defeat the enemy*
+
+**[BATTLE]**
+
+----
+
+> Bao says he did not have his best defense on, and he wants another match.
+> Can you beat him again? This time, make it clear who is the superior Davison commander.
+
+*Defeat the enemy with more than 30 units left*
+
+**[BATTLE]**
+
+----
+
+> You sent Bao packing! That was an excellent job.
+
+> Now, let's see who's the supreme Davison commander.
+> Guess your challenger will be...? That's right, me!
+
+*Defeat the enemy*
+
+**[BATTLE]**
+
+----
 
 > I am realy impressed by your skills. You will be invited to our Dragon Festival.
 > As a rewards, here are some Davison shards. See you at the event!
