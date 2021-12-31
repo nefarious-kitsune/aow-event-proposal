@@ -25,12 +25,12 @@ such as Archers, Ghost Assassins, and Goblikazes.
 
 ### The Academy II
 
-[The Academy II](the-academy-ii.md) (unlocked at level 2000) provides
+The Academy II (unlocked at level 2000) provides
 training on basics of Honor Hunting.
 
 ### The Academy III
 
-[The Academy III](the-academy-iii.md) (unlocked at level 3000) provides
+The Academy III (unlocked at level 3000) provides
 training on basics of targeting and crowd control.
 
 ## Special Events
