@@ -45,6 +45,16 @@
 
 ### Stage 2 - Reflection
 
+> Although Davison is powerful, a low-level Davison can die quickly
+> when he uses his active skill and dives into the enemy, so it's
+> best to turn his active skill off.
+
+*Defeat the enemy without using hero skill*
+
+**[BATTLE]**
+
+----
+
 > Davison's might come from his reflection skill.
 
 > To maximize his prowess, a knoweledgable commander would use multi-load troops.
