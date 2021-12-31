@@ -111,7 +111,7 @@
 
 > Our first challenge of the day is Harrison. See if you can beat him.
 
-* Defeat the enemy
+*Defeat the enemy*
 
 **[BATTLE]**
 
@@ -120,7 +120,7 @@
 > Next up is Mephisto, another winged hero. Let's see who's the superior hero,
 > Mephisto or Davison.
 
-* Defeat the enemy
+*Defeat the enemy*
 
 **[BATTLE]**
 
@@ -129,7 +129,7 @@
 > Finally, we are up against Horus, yet another winged hero. Can Davison truely
 > claim to be the superior flying hero?
 
-*Defeat the enemy
+*Defeat the enemy*
 
 **[BATTLE]**
 
