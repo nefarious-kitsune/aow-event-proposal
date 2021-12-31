@@ -4,8 +4,7 @@
 
 * A time-limited event where players can win Davison shards
 * If the player has no Davison, the event organizer will loan the player a Davison during the event
-* Once the event is started, the player must complete it in
-**6 days** to receive all rewards
+* Once the event is started, the player must complete it in exactly **5 days** (5 x 24 hours) to receive all rewards
 
 **Character**: Kocia
 
@@ -103,11 +102,53 @@
 
 **Rewards: 4-star Stone Golem**
 
-## Stage 4 - ????
+## Stage 4 - Tea Party
 
-> (no content yet)
+> Before the Dragon Festival starts, let's first get our festive spirit on.
+> We are now at the **Crazy Birthday Party** arena. Let's crash the party, shall we?
+
+----
+
+> Our first challenge of the day is Harrison. See if you can beat him.
+
+* Defeat the enemy
+
+**[BATTLE]**
+
+----
+
+> Next up is Mephisto, another winged hero. Let's see who's the superior hero,
+> Mephisto or Davison.
+
+* Defeat the enemy
+
+**[BATTLE]**
+
+----
+
+> Finally, we are up against Horus, yet another winged hero. Can Davison truely
+> claim to be the superior flying hero?
+
+* Defeat the enemy
+
+**[BATTLE]**
+
+----
+
+> Awesome. You owned the party!
+
+> Now, I hope you are warmed up for the big day. Let's see if you can pass the
+> final challenge tomorrow.
+
+**Rewards: 1 Harrison shard, 1 Mephisto shard, 1 Horus shard**
 
 ## Stage 5 - ???
 
 > (no content yet)
+> 
+
+> I am realy impressed by your skills. You will be invited to our Dragon Festival.
+> As a rewards, here are some Davison shards. See you at the event!
+
+**Rewards: 8 Davison shards**
 
