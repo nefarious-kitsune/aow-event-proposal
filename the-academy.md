@@ -22,7 +22,7 @@
 **[START]**
 
 ----
-> I have loaned you some troops. Use them to defeat the enemy.
+> I have lent you some troops. Use them to defeat the enemy.
 
 *Defeat the enemy*
 
@@ -33,7 +33,7 @@
 > Take a well-deserved rest. We will continue with new test
 > tomorrow.
 
-**REWARD: 10 gems**
+**REWARD: 50 gems**
 
 ### Stage 2 - The Basics
 
@@ -61,7 +61,7 @@
 
 > We will continue with new test tomorrow.
  
-**REWARD: 4-star Archers**
+**REWARD: 50 gems, 4-star Archers**
 
 ### Stage 3 - Hero
 
@@ -69,6 +69,8 @@
 > the attack power of your troops.
 
 (*Player is given a level-3 Hohenheim to use*)
+
+*Defeat the enemy*
 
 **[BATTLE]** 
 
