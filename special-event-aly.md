@@ -10,13 +10,19 @@
 
 ### Stage 1 - Tour of Mages
 
-> Good day, commander. I'm **Kocia**... (Need content)
+> I am really excited, or on fire, shall I say?
+
+> Aly is perhaps the most powerful mage hero out there, and I'm fortunate to
+> have acquired some Aly shards. I'm looking for commanders who can harness
+> the power of the Nine-Tail. Do you think you are the one?
  
 **[START]**
 
 ----
-> Let's warm up first by having Aly battle other mage heroes.
+> First, let's do some practice rounds against other mage heroes.
 > The first challenger is Plank.
+
+(Opponent: Plank, Ballista, Catapult, Pirate Ship)
 
 *Complete the battle*
 
@@ -25,13 +31,17 @@
 ----
 > Next up is Moshe.
 
+(Opponent: Moshe, Harbinger of Fire, Frost Archers)
+
 *Complete the battle*
 
 **[BATTLE]**
 
 ----
 
-> Finally, we have Horus.
+> Finally, we have Dracula.
+
+(Opponent: Dracula, Undead Soldier, Ghost Assassins, Voodoo Dolls).
 
 *Complete the battle*
 
