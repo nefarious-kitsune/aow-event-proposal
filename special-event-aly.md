@@ -51,7 +51,8 @@
 
 ### Stage 2 - Fire and Ice
 
-> (Need content)
+> Chione is a powerful hero with her own blizzard attack.
+> See if you can thaw Chione's ice.
 
 *Defeat the enemy*
 
@@ -59,7 +60,7 @@
 
 ----
 
-> (Need content)
+> Chione has
 
 *Defeat the enemy*
 
