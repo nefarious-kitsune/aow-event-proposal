@@ -338,17 +338,17 @@ every attempt after the third costs 10 gems.
   </thead>
   <tbody>
     <tr>
-      <td>6.1</td>
+      <td>5.1</td>
       <td>Defeat the enemy</td>
       <td>5000 coins</td>
     </tr>
     <tr>
-      <td>6.2</td>
+      <td>5.2</td>
       <td>Defeat the enemy with more than 30 units left</td>
       <td>50000 coins</td>
     </tr>
     <tr>
-      <td>6.3</td>
+      <td>5.3</td>
       <td>Defeat the enemy</td>
       <td>50000 coins</td>
     </tr>
