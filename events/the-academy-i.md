@@ -76,7 +76,7 @@ The maximum cost is 5000 coins per attempt.
 | Stage | Requirements             | Rewards    |
 | ----- | ------------------------ | ---------- |
 | 1.1   | Defeat the enemy         | 1000 coins |
-| 1.2   | Use reinforcement troops<br>Defeat the enemy    | 1000 coins |
+| 1.2   | Use reinforcement troops<br />Defeat the enemy    | 1000 coins |
 | Outro |                          | 50 gems    |
 
 </div>
@@ -115,8 +115,8 @@ The maximum cost is 5000 coins per attempt.
 | Stage | Requirements             | Rewards    |
 | ----- | ------------------------ | ---------- |
 | 2.1   | Complete the battle      | 1500 coins |
-| 2.2   | Use level 5 troops only<br>Defeat the enemy | 5 troops chest keys |
-| 2.3   | Keep all Archers alive at end of the battle<br>Defeat the enemy | 8 Archers |
+| 2.2   | Use level 5 troops only<br />Defeat the enemy | 5 troops chest keys |
+| 2.3   | Keep all Archers alive at end of the battle<br />Defeat the enemy | 8 Archers |
 | Outro |                          | 100 gems    |
 
 </div>
@@ -165,9 +165,9 @@ The maximum cost is 5000 coins per attempt.
 | Stage | Requirements             | Rewards    |
 | ----- | ------------------------ | ---------- |
 | 3.1   | Complete the battle      | 5 hero chest keys |
-| 3.2   | Use Hohenheim<br>Defeat the enemy | 10 hero chest keys |
-| 3.3   | Use Hohenheim<br>Defeat the enemy | 15 hero chest keys |
-| 3.4   | Keep the hero alive at end of the battle<br>Defeat the enemy | 2500 coins |
+| 3.2   | Use Hohenheim<br />Defeat the enemy | 10 hero chest keys |
+| 3.3   | Use Hohenheim<br />Defeat the enemy | 15 hero chest keys |
+| 3.4   | Keep the hero alive at end of the battle<br />Defeat the enemy | 2500 coins |
 | Outro |                          | 3 Hohenheim shards |
 
 </div>
@@ -203,8 +203,8 @@ The maximum cost is 5000 coins per attempt.
 
 | Stage | Requirements             | Rewards    |
 | ----- | ------------------------ | ---------- |
-| 4.1   | Use Ghost Assassins<br>Defeat the enemy | 2500 coins |
-| 4.2   | Keep the hero alive at end of the battle<br>Keep all Archers alive at end of the battle<br>Defeat the enemy | 8 Ghost Assassins |
+| 4.1   | Use Ghost Assassins<br />Defeat the enemy | 2500 coins |
+| 4.2   | Keep the hero alive at end of the battle<br />Keep all Archers alive at end of the battle<br />Defeat the enemy | 8 Ghost Assassins |
 | Outro |                          | 100 gems |
 
 </div>
@@ -237,8 +237,8 @@ The maximum cost is 5000 coins per attempt.
 
 | Stage | Requirements             | Rewards    |
 | ----- | ------------------------ | ---------- |
-| 5.1   | Kill enemy Ogre Warriors with Goblikazes<br>Defeat the enemy | 3500 coins |
-| 5.2   | Kill enemy Ghost Assassins with Goblikazes<br>Defeat the enemy | 8 Goblikazes |
+| 5.1   | Kill enemy Ogre Warriors with Goblikazes<br />Defeat the enemy | 3500 coins |
+| 5.2   | Kill enemy Ghost Assassins with Goblikazes<br />Defeat the enemy | 8 Goblikazes |
 | Outro |                          | 100 gems |
 
 </div>
