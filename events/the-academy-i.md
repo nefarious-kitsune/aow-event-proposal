@@ -72,13 +72,32 @@ The maximum cost is 5000 coins per attempt.
 > Take a well-deserved rest. We will continue with more tests tomorrow.
 
 <div style="align:center">
-
-| Stage | Requirements             | Rewards    |
-| ----- | ------------------------ | ---------- |
-| 1.1   | Defeat the enemy         | 1000 coins |
-| 1.2   | Use reinforcement troops<br />Defeat the enemy    | 1000 coins |
-| Outro |                          | 50 gems    |
-
+<table>
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>Requirements</th>
+      <th>Rewards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.1</td>
+      <td>Defeat the enemy</td>
+      <td>1000 coins</td>
+    </tr>
+    <tr>
+      <td>1.2</td>
+      <td>Use reinforcement troops<br />Defeat the enemy</td>
+      <td>1000 coins</td>
+    </tr>
+    <tr>
+      <td>Outro</td>
+      <td>&nbsp;</td>
+      <td>50 gems</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ----
