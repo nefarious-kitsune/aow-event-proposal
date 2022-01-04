@@ -5,8 +5,13 @@
 
 [中文版](zh.the-academy)
 
-The Academy is a series of *permanent* tutorial events to walk
+The Academy is a series of *permanent* tutorial [events](index) to walk
 beginner players through the basics of the game.
+
+## Goals
+
+* To provide beginner players tutorial on basic formation strategy
+* To provide beginner players some needed items to progress faster
 
 ## General
 

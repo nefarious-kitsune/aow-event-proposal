@@ -36,7 +36,7 @@ The maximum cost is 5000 coins per attempt.
 
 ## Introduction
 
-> Complete the event in 7 days to win Hohenheim shards.
+> Complete the event in 5 days to win Hohenheim shards.
 
 ----
 
@@ -142,7 +142,7 @@ The maximum cost is 5000 coins per attempt.
       <td>1500 coins</td>
     </tr>
     <tr>
-      <td>1.2</td>
+      <td>2.2</td>
       <td>Use level 5 troops only<br />Defeat the enemy</td>
       <td>8 Archers</td>
     </tr>
