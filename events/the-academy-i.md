@@ -71,7 +71,6 @@ The maximum cost is 5000 coins per attempt.
 > 
 > Take a well-deserved rest. We will continue with more tests tomorrow.
 
-<div style="align:center">
 <table>
   <thead>
     <tr>
@@ -98,7 +97,6 @@ The maximum cost is 5000 coins per attempt.
     </tr>
   </tbody>
 </table>
-</div>
 
 ----
 
@@ -129,16 +127,32 @@ The maximum cost is 5000 coins per attempt.
 > 
 > We will continue with new tests tomorrow.
 
-<div style="align:center">
-
-| Stage | Requirements             | Rewards    |
-| ----- | ------------------------ | ---------- |
-| 2.1   | Complete the battle      | 1500 coins |
-| 2.2   | Use level 5 troops only<br />Defeat the enemy | 5 troops chest keys |
-| 2.3   | Keep all Archers alive at end of the battle<br />Defeat the enemy | 8 Archers |
-| Outro |                          | 100 gems    |
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>Requirements</th>
+      <th>Rewards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2.1</td>
+      <td>Complete the battle</td>
+      <td>1500 coins</td>
+    </tr>
+    <tr>
+      <td>1.2</td>
+      <td>Use level 5 troops only<br />Defeat the enemy</td>
+      <td>8 Archers</td>
+    </tr>
+    <tr>
+      <td>Outro</td>
+      <td>&nbsp;</td>
+      <td>100 gems</td>
+    </tr>
+  </tbody>
+</table>
 
 ----
 
@@ -179,17 +193,42 @@ The maximum cost is 5000 coins per attempt.
 > Here are some Hohenheim shards.
 > You can use the hero in main levels to increase your coin earning.
 
-<div style="align:center">
-
-| Stage | Requirements             | Rewards    |
-| ----- | ------------------------ | ---------- |
-| 3.1   | Complete the battle      | 5 hero chest keys |
-| 3.2   | Use Hohenheim<br />Defeat the enemy | 10 hero chest keys |
-| 3.3   | Use Hohenheim<br />Defeat the enemy | 15 hero chest keys |
-| 3.4   | Keep the hero alive at end of the battle<br />Defeat the enemy | 2500 coins |
-| Outro |                          | 3 Hohenheim shards |
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>Requirements</th>
+      <th>Rewards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3.1</td>
+      <td>Complete the battle</td>
+      <td>5 hero chest keys</td>
+    </tr>
+    <tr>
+      <td>3.2</td>
+      <td>Defeat the enemy using Hohenheim</td>
+      <td>10 hero chest keys</td>
+    </tr>
+    <tr>
+      <td>3.3</td>
+      <td>Defeat the enemy using Hohenheim</td>
+      <td>15 hero chest keys</td>
+    </tr>
+    <tr>
+      <td>3.4</td>
+      <td>Keep the hero alive at end of the battle<br />Defeat the enemy using Hohenheim</td>
+      <td>2500 coins</td>
+    </tr>
+    <tr>
+      <td>Outro</td>
+      <td>&nbsp;</td>
+      <td>3 Hohenheim shards</td>
+    </tr>
+  </tbody>
+</table>
 
 ----
 
@@ -218,15 +257,32 @@ The maximum cost is 5000 coins per attempt.
 > Utilize back-line attack and counter defense well
 > and you should win many battles in the future.
 
-<div style="align:center">
-
-| Stage | Requirements             | Rewards    |
-| ----- | ------------------------ | ---------- |
-| 4.1   | Use Ghost Assassins<br />Defeat the enemy | 2500 coins |
-| 4.2   | Keep the hero alive at end of the battle<br />Keep all Archers alive at end of the battle<br />Defeat the enemy | 8 Ghost Assassins |
-| Outro |                          | 100 gems |
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>Requirements</th>
+      <th>Rewards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>4.1</td>
+      <td>Use Ghost Assassins<br />Defeat the enemy</td>
+      <td>2500 coins</td>
+    </tr>
+    <tr>
+      <td>4.2</td>
+      <td>Keep the hero alive at end of the battle<br />Keep all Archers alive at end of the battle<br />Defeat the enemy</td>
+      <td>8 Ghost Assassins</td>
+    </tr>
+    <tr>
+      <td>Outro</td>
+      <td>&nbsp;</td>
+      <td>100 gems</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 5 Sacrifices
 
@@ -252,15 +308,32 @@ The maximum cost is 5000 coins per attempt.
 > Good job. You have mastered the basics that every commander should know.
 > You should now be well prepared for the final test tomorrow.
 
-<div style="align:center">
-
-| Stage | Requirements             | Rewards    |
-| ----- | ------------------------ | ---------- |
-| 5.1   | Kill enemy Ogre Warriors with Goblikazes<br />Defeat the enemy | 3500 coins |
-| 5.2   | Kill enemy Ghost Assassins with Goblikazes<br />Defeat the enemy | 8 Goblikazes |
-| Outro |                          | 100 gems |
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>Requirements</th>
+      <th>Rewards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5.1</td>
+      <td>Kill enemy Ogre Warriors with Goblikazes<br />Defeat the enemy</td>
+      <td>3500 coins</td>
+    </tr>
+    <tr>
+      <td>5.2</td>
+      <td>Kill enemy Ghost Assassins with Goblikazes<br />Defeat the enemy</td>
+      <td>8 Goblikazes</td>
+    </tr>
+    <tr>
+      <td>Outro</td>
+      <td>&nbsp;</td>
+      <td>100 gems</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 6 Final Test
 
