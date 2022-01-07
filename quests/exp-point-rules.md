@@ -1,0 +1,12 @@
+# EXP point rules
+
+[中文版](zh.exp-point-rules)
+
+| Difficulty  | Exp Points | Comparison             |
+| ----------- | -----------| ---------------------- |
+| Easy        | 25         | 24 points for obtaining a 4-star rare troops |
+| Fair        | 50         | 60 points for obtaining a level 1 legendary hero |
+| Moderate    | 100        | 480 points for leveling a legendary hero from level 7 to level 8 |
+| Hard        | 200        | 660 points for leveling a legendary hero from level 10 to level 11 |
+| Very Hard   | 400        | 900 points for for leveling a legendary hero from level 14 to level 15  |
+| Insane      | 800        | 1140 points for for leveling a legendary hero from level 15.3 to level 16  |
