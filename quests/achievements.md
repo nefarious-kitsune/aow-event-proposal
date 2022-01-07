@@ -1,3 +1,6 @@
+[The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
+*Ideas from AoW players on changes & improvements to help make the game more interesting.*
+
 # Achievements
 
 See [EXP point rules](exp-point-rules)
@@ -36,6 +39,6 @@ See [EXP point rules](exp-point-rules)
 | 2000 | Win  3000 times on attack in Arena |  450 gems |
 | 5000 | Win  8000 times on attack in Arena |  750 gems |
 | 8000 | Win 12000 times on attack in Arena | 1200 gems |
-| 1000 | Obtain 3 hero skin  |  300 gems |
+| 1000 | Obtain 1 hero skin  |  300 gems |
 | 5000 | Obtain 3 hero skins |  600 gems |
 | 8000 | Obtain 5 hero skins | 1200 gems |

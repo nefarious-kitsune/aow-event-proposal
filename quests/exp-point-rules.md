@@ -1,3 +1,6 @@
+[The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
+*Ideas from AoW players on changes & improvements to help make the game more interesting.*
+
 # EXP point rules
 
 [中文版](zh.exp-point-rules)
