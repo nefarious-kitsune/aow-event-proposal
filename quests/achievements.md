@@ -39,6 +39,9 @@ See [EXP point rules](exp-point-rules)
 | 2000 | Win  3000 times on attack in Arena |  450 gems |
 | 5000 | Win  8000 times on attack in Arena |  750 gems |
 | 8000 | Win 12000 times on attack in Arena | 1200 gems |
+|  600 | Win   100 times on attack in Hero Trial |  150 gems |
+| 1200 | Win   800 times on attack in Hero Trial |  350 gems |
+| 2400 | Win  1500 times on attack in Hero Trial |  750 gems |
 | 1000 | Obtain 1 hero skin  |  300 gems |
 | 5000 | Obtain 3 hero skins |  600 gems |
 | 8000 | Obtain 5 hero skins | 1200 gems |

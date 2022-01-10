@@ -5,7 +5,7 @@
 
 [中文版](zh.exp-point-rules)
 
-## Daily and Special Quests
+## Daily and Seasonal Quests
 
 | Difficulty  | Exp Points | Comparison             |
 | ----------- | -----------| ---------------------- |
