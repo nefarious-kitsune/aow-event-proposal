@@ -31,9 +31,9 @@ have similar UI.
 
 ![Command Center](https://cdn.discordapp.com/attachments/831064145637539860/930008082669535282/ui-command-center.png)
 
-### Clan
+### Guild
 
-![Clan](https://cdn.discordapp.com/attachments/831064145637539860/930008064474615868/ui-clan.png)
+![Guild UI](https://cdn.discordapp.com/attachments/831064145637539860/930377580664733736/ui-clan.png)
 
 ### Alliance
 

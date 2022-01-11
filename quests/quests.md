@@ -16,9 +16,6 @@ See [EXP point rules](exp-point-rules)
 
 | Exp Points | Quest            | Rewards  |
 | ---------- | ----------------- | ---------- |
-|  200 | Log in for 10 days      | **10 gems**    |
-|   25 | Obtain  10 troops       | 1000 coins |
-|  100 | Obtain 100 troops       | 7500 coins |
-|  100 | Win  50 arena battles   | 2500 coins |
-|  200 | Win 100 arena battles   | 5000 coins |
-|  400 | Win 200 arena battles   | 7500 coins |
+|  100 | Log in for 3 days       | **10 gems**    |
+|  200 | Log in for 7 days       | **20 gems**    |
+|  400 | Log in for 14 days      | **40 gems**    |

@@ -42,6 +42,10 @@ See [EXP point rules](exp-point-rules)
 |  600 | Win   100 times on attack in Hero Trial |  150 gems |
 | 1200 | Win   800 times on attack in Hero Trial |  350 gems |
 | 2400 | Win  1500 times on attack in Hero Trial |  750 gems |
-| 1000 | Obtain 1 hero skin  |  300 gems |
-| 5000 | Obtain 3 hero skins |  600 gems |
-| 8000 | Obtain 5 hero skins | 1200 gems |
+| 1000 | Obtain 1 hero skin  |  200 gems |
+| 2000 | Obtain 3 hero skins |  500 gems |
+| 4000 | Obtain 5 hero skins | 1000 gems |
+| 8000 | Obtain  1 level 15 legendary hero skins | 600 gems  |
+| 8000 | Obtain  5 level 15 legendary hero skins | 800 gems  |
+| 8000 | Obtain 10 level 15 legendary hero skins | 1000 gems |
+| 8000 | Obtain 20 level 15 legendary hero skins | 1200 gems |
