@@ -11,7 +11,7 @@ The overall game UI is disorganized.
 
 * Create a unifying gaming experience
 * Create Commander Center to consolidate some functions
-* A **profile** tab for general information
+* A **Profile** tab for general information
 * An **Inbox** tab for receiving messages *and* rewards
 * A **Quests** tab for [EXP Quests](../quests/exp-quests) and [Achievements](../quests/achievements)
 * A **Subscription** tab for managing subscriptions
@@ -27,8 +27,8 @@ The overall game UI is disorganized.
 
 ### User Interface
 
-| Profile | Inbox   | Quests   | Perks  |
-| ------- | ------- | -------- |------- |
+| Profile | Inbox   | Quests   | Subscription  |
+| ------- | ------- | -------- |-------------- |
 |![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest.png)| IMAGE |
 
 

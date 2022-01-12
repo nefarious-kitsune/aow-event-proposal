@@ -47,6 +47,6 @@ Seasonal quests are "tiered" (completing one will unlock the next tier)
 
 ### User Interface
 
-3rd Tab in Command Center interface
+3rd Tab in [Command Center](../structure/command-center) interface
 
 ![Example](../images/ui-command-center-exp-quest.png)
