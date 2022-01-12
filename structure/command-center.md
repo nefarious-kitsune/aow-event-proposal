@@ -19,10 +19,10 @@ The overall game UI is disorganized.
 
 | Function      | Commander        | Guild     | Alliance  |
 | ------------- | ---------------- | ----------| --------- |
-| General       | **Profile**      | Profile   | Profile   |
-| Communication | [Inbox](../inbox/inbox)        | Chat      | Chat      |
-| Quests        | [Quests](../quests/exp-quests) | Quests    | Titan War |
-| Resources     | **Exclusive**    | Clan Shop | Gold Mine |
+| General       | **Profile**                        | Profile   | Profile   |
+| Communication | [Inbox](../inbox/inbox)            | Chat      | Chat      |
+| Quests        | [Quests](../quests/exp-quests)     | Quests    | Titan War |
+| Resources     | [Exclusive](../shop/subscription)  | Clan Shop | Gold Mine |
 
 ### User Interface
 
