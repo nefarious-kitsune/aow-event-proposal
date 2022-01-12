@@ -25,6 +25,7 @@ Quests should be made so that:
 * The Exp Quests only rewards Exp points and coins so players who cannot complete them don't feel left out.
 * See [EXP point rules](exp-point-rules)
 * See [Achievements](achievements)
+* See [Guild quests](guild-quests)
 
 ### Daily Quests
 

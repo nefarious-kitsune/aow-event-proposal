@@ -24,9 +24,9 @@ have similar UI.
 | Function      | Commander    | Guild     | Alliance  |
 | ------------- | ------------ | ----------| --------- |
 | General       | Profile      | Profile   | Profile   |
-| Communication | [Inbox](../inbox/inbox)         | Chat      | Chat      |
-| Quests        | [Quests](../quests/exp-quests)  | [Quests](../quests/guild-quests) | Titan War |
-| Resources     | Exclusive    | Clan Shop | Gold Mine |
+| Communication | [Inbox](../inbox/inbox)            | Chat      | Chat      |
+| Quests        | [Quests](../quests/exp-quests)     | [Quests](../quests/guild-quests) | Titan War |
+| Resources     | [Exclusive](../shop/subscription)  | Clan Shop | Gold Mine |
 
 ## Icon System
 

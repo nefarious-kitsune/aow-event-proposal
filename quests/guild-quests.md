@@ -22,6 +22,8 @@
   * Arena Defense, e.g. Defend in the Arena with Beast Master
   * Non-Arena, e.g. Acquire 500 Legendary Heroes
 * The quest list should have two of each type.
+* See [EXP point rules](exp-point-rules)
+* See [Exp quests](exp-quests)
 
 ### Silver Coins
 

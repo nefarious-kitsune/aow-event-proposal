@@ -12,8 +12,10 @@ EXP Points are hard to obtain.
 ## Suggested Solution
 
 * Create Achievements
+* Achievements are "tiered" (completing one will unlock the next tier)
 * See [Exp quests](exp-quests)
 * See [EXP point rules](exp-point-rules)
+* See [Guild quests](guild-quests)
 
 | Exp Points | Achievement       | Rewards  |
 | ---------- | ----------------- | ---------- |
