@@ -29,6 +29,6 @@ The overall game UI is disorganized.
 
 | Profile | Inbox   | Quests   | Perks  |
 | ------- | ------- | -------- |------- |
-|![Example](../images/ui-command-center-profile.png)| IMAGE   |![Example](../images/ui-command-center-exp-quest.png)| IMAGE |
+|![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest.png)| IMAGE |
 
 
