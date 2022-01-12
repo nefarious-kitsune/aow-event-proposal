@@ -18,9 +18,9 @@
 * Members can use silver coins to redeem goodies in the Guild Shop
 * When a member leaves a guild, the player loses all silver coins saved (the member needs to spend all silver before leaving).
 * Separate guild quests into 3 types:
-  * Arena Offense, e.g. Attack in the Arena with Warrior heroes
-  * Arena Defense, e.g. Defend in the Arena with Beast Master
-  * Non-Arena, e.g. Acquire 500 Legendary Heroes
+   - Arena Offense, e.g. Attack in the Arena with Warrior heroes
+   - Arena Defense, e.g. Defend in the Arena with Beast Master
+   - Non-Arena, e.g. Acquire 500 Legendary Heroes
 * The quest list should have two of each type.
 * See [EXP point rules](exp-point-rules)
 * See [Exp quests](exp-quests)

@@ -12,9 +12,9 @@ Developer needs money
 * Create another way to get money from players
 * Create an Exclusive tab for managing **membership cards**.
 * Create a new program for personalization
- * Exclusive avatar frames
- * Allow player to upload their own avatar
- * Reduce name change cooldown to 7 days
+   - Exclusive avatar frames
+   - Allow player to upload their own avatar
+   - Reduce name change cooldown to 7 days
 
 ### User Interface
 
