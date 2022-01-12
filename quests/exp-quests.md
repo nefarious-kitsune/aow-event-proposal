@@ -18,7 +18,7 @@ Quests should be made so that:
 
 ## Suggested Solution
 
-* Remove daily quests (move gem rewards to [log-in rewards](../rewards/))
+* Remove daily quests (move gem rewards to [log-in rewards](../inbox/inbox))
 * Create new **Exp Quests**
 * Exp Quests are essentially a reminder list of things that most players do everyday
 * Players do not need to through screens to check if they miss anything

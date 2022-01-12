@@ -15,18 +15,18 @@ The overall game UI is disorganized.
 * A **Quests** tab for [EXP Quests](../quests/exp-quests) and [Achievements](../quests/achievements)
 * A **Exclusive** tab for managing subscriptions
 * When entering the UI, the screen defaults to **Quests** tab (not Profile tab)
-* Organize the tabs so Commander Center and Guild have consistency.
+* Organize the tabs so Command Center and Guild have consistency.
 
-| Function      | Commander        | Clan      | Alliance  |
+| Function      | Commander        | Guild     | Alliance  |
 | ------------- | ---------------- | ----------| --------- |
 | General       | **Profile**      | Profile   | Profile   |
-| Communication | **Inbox**        | Chat      | Chat      |
-| Quests        | **Quests**       | Quests    | Titan War |
+| Communication | [Inbox](../inbox/inbox)        | Chat      | Chat      |
+| Quests        | [Quests](../quests/exp-quests) | Quests    | Titan War |
 | Resources     | **Exclusive**    | Clan Shop | Gold Mine |
 
 ### User Interface
 
-| Profile | Inbox   | [Quests](../quests/exp-quests)   | Exclusive     |
+| Profile | [Inbox](../inbox/inbox) | [Quests](../quests/exp-quests)   | Exclusive     |
 | ------- | ------- | -------- |-------------- |
 |![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest.png)|![Example](../images/ui-command-center-subscription.png)|
 

@@ -1,14 +1,33 @@
+# Tiers
+
 [The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
 *Ideas from AoW players on changes & improvements to help make the game more interesting.*
 
-# 3-Tier System
+## Problem
 
-A collection of ideas on improving **player experience** on personal and clan quests
+The overall game UI is disorganized.
 
-## Goals
+## Suggested Solution
 
-* Create a unifying gaming experience
+Create a 3-tier structure, each with its own color scheme
+
+| | [Commander](../structure/command-center) | Guild | Alliance  |
+| ---------| ------------- | ----------| --------- |
+| Tier             | 1     | 2         | 3         |
+| Primary Color    | Blue  | Purple    | Orange    |
+| Secondary Color  | ?     | ?         | ?         |
+
+
+Organize Command Center, Guild, and Alliance so they
+have similar UI.
+
+| Function      | Commander    | Guild     | Alliance  |
+| ------------- | ------------ | ----------| --------- |
+| General       | Profile      | Profile   | Profile   |
+| Communication | [Inbox](../inbox/inbox)         | Chat      | Chat      |
+| Quests        | [Quests](../quests/exp-quests)  | [Quests](../quests/guild-quests) | Titan War |
+| Resources     | Exclusive    | Clan Shop | Gold Mine |
 
 ## Icon System
 
-![Icon system](https://cdn.discordapp.com/attachments/831064145637539860/930376137027248158/icon-system.png)
+![Icon system](../images/icon-system.png)
