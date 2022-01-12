@@ -26,7 +26,7 @@ The overall game UI is disorganized.
 
 ### User Interface
 
-| Profile | Inbox   | Quests   | Exclusive     |
+| Profile | Inbox   | [Quests](../quests/exp-quests)   | Exclusive     |
 | ------- | ------- | -------- |-------------- |
 |![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest.png)|![Example](../images/ui-command-center-subscription.png)|
 
