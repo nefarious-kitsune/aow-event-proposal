@@ -9,12 +9,11 @@ The overall game UI is disorganized.
 
 ## Suggested Solution
 
-* Create a unifying gaming experience
 * Create Commander Center to consolidate some functions
 * A **Profile** tab for general information
 * An **Inbox** tab for receiving messages *and* rewards
 * A **Quests** tab for [EXP Quests](../quests/exp-quests) and [Achievements](../quests/achievements)
-* A **Subscription** tab for managing subscriptions
+* A **Exclusive** tab for managing subscriptions
 * When entering the UI, the screen defaults to **Quests** tab (not Profile tab)
 * Organize the tabs so Commander Center and Guild have consistency.
 
@@ -23,12 +22,12 @@ The overall game UI is disorganized.
 | General       | **Profile**      | Profile   | Profile   |
 | Communication | **Inbox**        | Chat      | Chat      |
 | Quests        | **Quests**       | Quests    | Titan War |
-| Resources     | **Subscription** | Clan Shop | Gold Mine |
+| Resources     | **Exclusive**    | Clan Shop | Gold Mine |
 
 ### User Interface
 
-| Profile | Inbox   | Quests   | Subscription  |
+| Profile | Inbox   | Quests   | Exclusive     |
 | ------- | ------- | -------- |-------------- |
-|![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest.png)| IMAGE |
+|![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest.png)|![Example](../images/ui-command-center-subscription.png)|
 
 

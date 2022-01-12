@@ -1,16 +1,23 @@
 [The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
 *Ideas from AoW players on changes & improvements to help make the game more interesting.*
 
-# Personal and Clan Quests
+# Quests
 
-A collection of ideas on improving **player experience** on personal and clan quests
+## Problem
 
-## Goals
+Currently, some daily quests such as "Kill 5000 legendary enemy units" are
+very time consuming. Players sometimes get busy in life and could not
+complete all quests, and they can feel stressed for not being able to collect
+gem rewards.
 
-* Unification of game UI with better planning
-* Reduce redundant screen tapping
-* Reduce player loads
-* Improve clan experience
+Quests should be made so that:
+* they are not compulsory
+* they can be completed quickly
+
+## Suggested Solution
+
+* Remove daily quests (move rewards to [log-in rewards](../rewards/)
+* Create Exp Quests that only reward Exp Points and Gold Coins.
 
 ## UI Unification
 
