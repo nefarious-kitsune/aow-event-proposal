@@ -7,6 +7,8 @@
 
 The overall game UI is disorganized.
 
+See [Tiers](tiers)
+
 ## Suggested Solution
 
 * Create Commander Center to consolidate some functions
