@@ -23,7 +23,7 @@ have similar UI.
 
 | Function      | Commander    | Guild     | Alliance  |
 | ------------- | ------------ | ----------| --------- |
-| General       | Profile      | Profile   | Profile   |
+| General       | [Profile](profiles)                | [Profile](profiles)   | Profile   |
 | Communication | [Inbox](../inbox/inbox)            | Chat      | Chat      |
 | Quests        | [Quests](../quests/exp-quests)     | [Quests](../quests/guild-quests) | Titan War |
 | Resources     | [Exclusive](../shop/subscription)  | Clan Shop | Gold Mine |

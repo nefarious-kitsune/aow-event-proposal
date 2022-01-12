@@ -21,14 +21,14 @@ See [Tiers](tiers)
 
 | Function      | Commander        | Guild     | Alliance  |
 | ------------- | ---------------- | ----------| --------- |
-| General       | **Profile**                        | Profile   | Profile   |
+| General       | [Profile](profiles)                | [Profile](profiles)   | Profile   |
 | Communication | [Inbox](../inbox/inbox)            | Chat      | Chat      |
-| Quests        | [Quests](../quests/exp-quests)     | Quests    | Titan War |
+| Quests        | [Quests](../quests/exp-quests)     | [Quests](../quests/guild-quests)    | Titan War |
 | Resources     | [Exclusive](../shop/subscription)  | Clan Shop | Gold Mine |
 
 ### User Interface
 
-| Profile | [Inbox](../inbox/inbox) | [Quests](../quests/exp-quests)   | Exclusive     |
+| [Profile](profiles) | [Inbox](../inbox/inbox) | [Quests](../quests/exp-quests)   | Exclusive     |
 | ------- | ------- | -------- |-------------- |
 |![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest.png)|![Example](../images/ui-command-center-subscription.png)|
 
