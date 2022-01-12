@@ -1,30 +1,30 @@
-# Achievements
+# 成就
 
-[The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
-*Ideas from AoW players on changes & improvements to help make the game more interesting.*
+[AoW Ideas 計畫](https://github.com/nefarious-kitsune/aow.ideas):
+*玩家一些能幫助使遊戲更有趣的修改與改進的想法。*
 
-[中文版](zh.achievements)
+[English](achievements)
 
-## Problem
+## 問題
 
-EXP Points are hard to obtain.
+經驗值很難取得。
 
-## Suggested Solution
+## 建議的解決方案
 
-* Create Achievements
-* See [Exp quests](exp-quests)
-* See [EXP point rules](exp-point-rules)
+* 新增「成就」
+* 參見 [經驗值任務](zh.exp-quests)
+* 參見 [經驗值點數規則](zh.exp-point-rules)
 
-| Exp Points | Achievement       | Rewards  |
+| 經驗值 | 任務           | 獎勵  |
 | ---------- | ----------------- | ---------- |
-|  100 | Join a guild             | Chest speed-up |
-|  250 | Reach main level 1000    | 5000 coins |
-|  450 | Reach main level 3000    | 5000 coins |
-|  700 | Reach main level 7500    | 5000 coins |
-|  900 | Reach main level 10000   | 5000 coins |
-| 1000 | Finish a season with King rank       | 10 gems |
-| 2000 | Finish a season with Conqueror       | 40 gems |
-| 4000 | Finish a season with God of War rank | 100 gems |
+|  100 | 加入公會                 | 寶箱時間減少 |
+|  250 | 達到主線關卡 1000    | 5000 金幣 |
+|  450 | 達到主線關卡 3000    | 5000 金幣 |
+|  700 | 達到主線關卡 7500    | 5000 金幣 |
+|  900 | 達到主線關卡 10000   | 5000 金幣 |
+| 1000 | 賽季結束時達到王者段位  | 10 gems |
+| 2000 | 賽季結束時達到征服者段位  | 40 gems |
+| 4000 | 賽季結束時達到戰神段位  | 100 gems |
 |  500 | Collect 1000 wins at elite level           | 30 gems |
 | 1000 | Collect 3000 wins at elite level           | 60 gems |
 | 2000 | Collect 1000 3-star wins at elite level    | 120 gems |

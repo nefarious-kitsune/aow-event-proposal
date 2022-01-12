@@ -1,11 +1,11 @@
-# Exp Quests
+# 經驗值任務
 
 [The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
 *Ideas from AoW players on changes & improvements to help make the game more interesting.*
 
 [English](exp-quests)
 
-## Problem
+## 問題
 
 目前，一些每日任務，例如「殺死5000個傳奇敵方單位」。非常耗時。
 玩家有時會忙於生活而無法完成所有任務，他們會因為無法收集寶石獎勵而感到*壓力*。
@@ -21,8 +21,10 @@
 * 「經驗值任務」基本上是大多數玩家每天都會做的事情的提醒清單
 * 玩家不需要點擊很多畫面來檢查他們是否錯過了任何東西
 * 「經驗值任務」僅獎勵經驗值和金幣，因此無法完成它們的玩家不會感到被遺忘。
+* 參見[經驗值點數規則](zh.exp-point-rules)
+* 參見[成就](zh.achievements)
 
-參見 [經驗值點數規則](zh.exp-point-rules)
+
 
 ### 每日任務
 

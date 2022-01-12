@@ -23,8 +23,8 @@ Quests should be made so that:
 * Exp Quests are essentially a reminder list of things that most players do everyday
 * Players do not need to through screens to check if they miss anything
 * The Exp Quests only rewards Exp points and coins so players who cannot complete them don't feel left out.
-
-See [EXP point rules](exp-point-rules)
+* See [EXP point rules](exp-point-rules)
+* See [Achievements](achievements)
 
 ### Daily Quests
 
