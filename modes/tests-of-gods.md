@@ -3,6 +3,8 @@
 [The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
 *Ideas from AoW players on changes & improvements to help make the game more interesting.*
 
+[中文版](zh.tests-of-gods)
+
 ## Problem
 
 * The new mode "The Tests of Gods" does not benefit any group of players.
