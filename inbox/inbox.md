@@ -18,6 +18,17 @@
 * Use the Inbox to receive messages from guild generals.
 * Require guild general to type in a message when they kick a member
 
+Consolidate all rewards
+- Delete Daily Quests (and replace with [Exp Quests](../quests/exp-quests))
+- Delete the shameful New Releases in Shop page
+- Delete the free troops in Mystic page
+- Add daily log-in reward
+- Deliver the log-in reward to Inbox (expires in 24h after delivery)
+
+### Daily Rewards Examples
+
+![Example](daily-rewards.png)
+
 ### User Interface
 
 2nd Tab in [Command Center](../structure/command-center) interface
