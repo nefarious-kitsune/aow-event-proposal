@@ -5,4 +5,6 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-[Events](events/)
+* [Events](events/) with story-telling elements and new challenges
+* Make [the Tests of Gods](modes/tests-of-gods) an useful event
+* Create a [Guild Quests point system](quests/guild-quests) to motivate quest contribution and help guilds retain members
