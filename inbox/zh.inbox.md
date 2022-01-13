@@ -31,7 +31,7 @@
 
 ![示例](daily-rewards.png)
 
-＃＃＃ 用戶界面
+### 使用介面
 
 「[指揮中心](../structure/command-center)」界面中的第二個分頁
 
