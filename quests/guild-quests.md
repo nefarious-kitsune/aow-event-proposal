@@ -37,4 +37,7 @@ Epic card, the member earns 720 × 10 ÷ 240 = 30 silver coins.
 * 3rd Tab in Guild interface
 * New chest design for better differentiation
 
-![Example](../images/ui-guild-quest.png)
+
+| Guild Quests | Guild Quests | Exp Quests   |
+| ------------ | ------------ | ------------ |
+|![Example](../images/ui-guild-quest-1.png)|![Example](../images/ui-guild-quest-2.png)|![Example](../images/ui-command-center-exp-quest-2.png)|
