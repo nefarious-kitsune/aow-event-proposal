@@ -3,11 +3,13 @@
 [The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
 *Ideas from AoW players on changes & improvements to help make the game more interesting.*
 
+[中文版](zh.guild-events)
+
+If you agree with this proposal, please vote 👍 [here](https://discord.com/channels/658594298983350293/659077000027308104/931495467920031764)
+
 ## Problem
 
 Too many taps needed to to simple task.
-
-See [Guild Quests](guild-quests)
 
 ## Suggested Solution
 
