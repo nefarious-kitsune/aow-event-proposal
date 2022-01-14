@@ -30,6 +30,6 @@ See [Tiers](tiers)
 
 | [Profile](profiles) | [Inbox](../inbox/inbox) | [Quests](../quests/exp-quests)   | Exclusive     |
 | ------- | ------- | -------- |-------------- |
-|![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest.png)|![Example](../images/ui-command-center-subscription.png)|
+|![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest-2.png)|![Example](../images/ui-command-center-subscription.png)|
 
 
