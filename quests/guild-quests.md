@@ -24,6 +24,7 @@
 * The quest list should have two of each type.
 * See [EXP point rules](exp-point-rules)
 * See [Exp quests](exp-quests)
+* See [Guild events](guild-events)
 
 ### Silver Coins
 

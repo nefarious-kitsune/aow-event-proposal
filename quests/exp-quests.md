@@ -26,8 +26,7 @@ Quests should be made so that:
 * See [EXP point rules](exp-point-rules)
 * See [Achievements](achievements)
 * See [Guild quests](guild-quests)
-
-### Daily Quests
+* See [Guild events](guild-events)
 
 | Exp Points | Quest            | Rewards  |
 | ---------- | ----------------- | ---------- |
@@ -36,18 +35,8 @@ Quests should be made so that:
 |  30 | Complete 3 Honor Hunting battles | 3000 coins |
 |  50 | Complete 15 arena battles        | 5000 coins |
 
-### Seasonal Quests
-
-Seasonal quests are "tiered" (completing one will unlock the next tier)
-
-| Exp Points | Quest            | Rewards  |
-| ---------- | ----------------- | ---------- |
-|  100 | Log in for 3 days       | **10 gems**    |
-|  200 | Log in for 7 days       | **20 gems**    |
-|  400 | Log in for 14 days      | **40 gems**    |
-
 ### User Interface
 
 3rd Tab in [Command Center](../structure/command-center) interface
 
-![Example](../images/ui-command-center-exp-quest.png)
+![Example](../images/ui-command-center-exp-quest-2.png)
