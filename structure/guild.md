@@ -1,4 +1,4 @@
-# Command Center
+# Guild
 
 [The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
 *Ideas from AoW players on changes & improvements to help make the game more interesting.*
@@ -11,13 +11,13 @@ See [Tiers](tiers)
 
 ## Suggested Solution
 
-* Create Commander Center to consolidate some functions
+* Redesign Guild interface
 * A **Profile** tab for general information
-* An **Inbox** tab for receiving messages *and* rewards
-* A **Quests** tab for [EXP Quests](../quests/exp-quests) and [Achievements](../quests/achievements)
-* A **Exclusive** tab for managing subscriptions
+* A **Chat** tab for chatting and receiving announcements
+* A **Quests** tab for [Guild Quests](../quests/guild-quests)
+* A **Shop** tab for spending silver coins.
 * When entering the UI, the screen defaults to **Quests** tab (not Profile tab)
-* Organize the tabs so Command Center and [Guild](guild) have consistency.
+* Organize the tabs so [Command Center](command-center) and Guild have consistency.
 
 | Function      | Commander        | Guild     | Alliance  |
 | ------------- | ---------------- | ----------| --------- |
@@ -28,8 +28,8 @@ See [Tiers](tiers)
 
 ### User Interface
 
-| [Profile](profiles) | [Inbox](../inbox/inbox) | [Quests](../quests/exp-quests) | [Exclusive](../shop/subscription) |
+| [Profile](profiles) | Chat | [Guild Quests](../quests/guild-quests) | [Shop](../shop/guild-shop) |
 | ------- | ------- | -------- |-------------- |
-|![Example](../images/ui-command-center-profile.png)|![Example](../images/ui-command-center-inbox.png)|![Example](../images/ui-command-center-exp-quest-2.png)|![Example](../images/ui-command-center-subscription.png)|
+|![Example](../images/ui-guild-profile.png)| |![Example](../images/ui-guild-quest-1.png)|![Example](../images/ui-guild-shop.png)|
 
 

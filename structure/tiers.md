@@ -11,7 +11,7 @@ The overall game UI is disorganized.
 
 Create a 3-tier structure, each with its own color scheme
 
-| | [Commander](../structure/command-center) | Guild | Alliance  |
+| | [Commander](command-center) | [Guild](guild) | Alliance  |
 | ---------| ------------- | ----------| --------- |
 | Tier             | 1     | 2         | 3         |
 | Primary Color    | Blue  | Purple    | Orange    |
@@ -26,7 +26,7 @@ have similar UI.
 | General       | [Profile](profiles)                | [Profile](profiles)   | Profile   |
 | Communication | [Inbox](../inbox/inbox)            | Chat      | Chat      |
 | Quests        | [Quests](../quests/exp-quests)     | [Quests](../quests/guild-quests) | Titan War |
-| Resources     | [Exclusive](../shop/subscription)  | Clan Shop | Gold Mine |
+| Resources     | [Exclusive](../shop/subscription)  | [Shop](../shop/guild-shop) | Gold Mine |
 
 ## Icon System
 
