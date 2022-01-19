@@ -54,15 +54,37 @@ Similar suggestion by
 
 ----
 
-## User Interface
+## Farming - 3-Star Requirement
+
+[Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/932344776643182663) (by DOM FlyBG)
+
+* Lower needed requirements for getting 3 star win, from 50% troops to 20%;
+
+----
+
+## User Interface - Clan Battles
 
 [Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/932544473815207986)
 
 * Redesign the entire [Arena](structure/arena) interface
 * Consolidate "Clan Battles" and "Training" into a Dojo feature
+
 ----
 
-## Ranking
+## User Interface - Reward Claiming
+
+[Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/932554790855118910)
+
+* Reduce gaming time
+* [Send all rewards to Inbox](inbox/inbox) for one-click claiming
+
+Similar suggestion by
+[The Haunter](https://discord.com/channels/658594298983350293/659077000027308104/932187057181294632)
+> have all the reward claims on one page instead of running around searching for claims
+
+----
+
+## User Interface - Ranking
 
 Similar suggestion by
 [RIP](https://discord.com/channels/658594298983350293/659077000027308104/932785870468182017)
@@ -73,6 +95,15 @@ Similar suggestion by
 > each of the thresholds for rewards. 500,1000,2500,etc.
 
 ----
+
+## Growth Funds - Add levels
+
+Similar suggestion by
+[bsctramel](https://discord.com/channels/658594298983350293/659077000027308104/932293759994052619)
+
+> My suggestion is that you all finally add new levels in the growth funds for
+> gems, medals, and coins. The levels have increments of 5 early on and then
+> change to 10s. I'd like for 55, 65, 75, 85, and 95 added please.
 
 <!-- 
 * [Events](events/) with story-telling elements and new challenges
