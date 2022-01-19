@@ -5,12 +5,14 @@
 
 ## Problem
 
-The overall game UI is disorganized.
+* The overall game UI is disorganized.
+* Players have interests in tracking when they first joined the game
+* Players have interests in tracking when they first joined a guild
 
 ## Suggested Solution
 
-* Redesign commander trophy as blue according to [tier system](tiers)
-* Redesign guild trophy as purple
+* Redesign personal and guild trophy icons according to a consistent [tier system](tiers).
+* Add join dates to the profile tabs of Command Center and Guild.
 
 ### User Interface
 
