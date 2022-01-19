@@ -52,13 +52,40 @@ Similar suggestion by
 >
 > Thank you
 
+Similar suggestion by
+[Kitsune](https://discord.com/channels/658594298983350293/659077000027308104/931017397656223775)
+> Thank you for the new game mode, "Tests of Gods".
+>
+> Game modes should target specific player groups so that
+> players can choose what game modes to participate in and
+> not forced to play every game modes
+>
+> Please design the new game mode as a permanent mode to help new players
+> farm coins more efficiently.
+
+
 ----
 
 ## Farming - 3-Star Requirement
 
-[Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/932344776643182663) (by DOM FlyBG)
+[Main suggestion by DOM FlyBG](https://discord.com/channels/658594298983350293/659077000027308104/932344776643182663)
 
-* Lower needed requirements for getting 3 star win, from 50% troops to 20%;
+> Lower needed requirements for getting 3 star win, from 50% troops to 20%;
+
+----
+
+## Farming - Assist
+
+[Main Suggestion](https://discord.com/channels/658594298983350293/659077000027308104/878806641577967647)
+
+Create an Assist feature for level 8000. The player can tap on a Support hero icon to choose Green, Edward, Selene, or Seondeok from his barrack, and the field hero can use the chosen support hero’s passive ability.
+
+Similar suggestion by [Pompatous](https://discord.com/channels/658594298983350293/659077000027308104/931628565886296116)
+> Making farming easier for us and more profitable for you,
+> by making Hohenheim's coin skill active even if he's not
+> in the battle. We can test our formations with our main
+> heroes but still get our Hohenheim rewards for getting three stars.
+> You get more revenue as we watch more videos.
 
 ----
 
@@ -72,9 +99,13 @@ Similar suggestion by
 > each players has been playing. Also, would be great to know my own
 > starting date.
 
+[Follow-up suggestion by Kitsune](https://discord.com/channels/658594298983350293/659077000027308104/933207172911890512)
+> * On [Guild profile](structure/profiles) page, display info on when a member last joins the guild
+> * If a member has a role, display the role title instead
+
 ----
 
-## User Interface - Clan Battles
+## User Interface - Streamlining - Clan Battles
 
 [Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/932544473815207986)
 
@@ -83,9 +114,20 @@ Similar suggestion by
 
 ----
 
-## User Interface - Reward Claiming
+## User Interface - Streamlining - Manticore and Tests of Gods
 
-[Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/932554790855118910)
+[Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/931495467920031764)
+
+* Design entry point of new game mode as a banner inside Exp Quests tab and Guild Quests tab.
+
+Similar suggestion by [Mycroft](https://discord.com/channels/658594298983350293/659077000027308104/931041575369326603)
+> Please make clan Hunting and quest on one page only to improve user experience.
+
+----
+
+## User Interface - Streamlining - Reward Claiming
+
+[Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/931034062473289830)
 
 * Reduce gaming time
 * [Send all rewards to Inbox](inbox/inbox) for one-click claiming
@@ -124,6 +166,72 @@ Similar suggestion by
 > My suggestion is that you all finally add new levels in the growth funds for
 > gems, medals, and coins. The levels have increments of 5 early on and then
 > change to 10s. I'd like for 55, 65, 75, 85, and 95 added please.
+
+----
+
+## Exp and Quests - Achievements
+
+Add [Achievements](quests/achievements)
+
+Similar suggestion by
+[🅼🅴🅷🅰🆁](https://discord.com/channels/658594298983350293/659077000027308104/930855434926063716)
+
+> Please add more achievements in Experience chest point system
+> 
+> - 9000 battle in arena 18000 points is good
+> - 150 fusion is good
+> 
+> - 1m coin farming 10 point
+> - Rank- Aa, hh, ch, ht 100-1000 point
+> - 1usd purchase 10 point
+> - 200 wof means 40×5 100 point, 100 card master 300 point
+> - 1 Lv9 troop 100 point, 1 lv10 troop 500 point
+> - 1 legendary hero- lv15 1000 point, lv16 2000 point, lv17 5000 point
+
+----
+
+## Exp and Quests - Fusion Exp
+
+[Main suggestion by Scythe](https://discord.com/channels/658594298983350293/659077000027308104/930804063484903465)
+
+> Receiving the troop from temple of fusion does not give the XP for it.
+> Please make this possible after receiving the troop from temple of
+> fusion to get a proper [experience](quests/exp-quests) for it
+
+----
+
+## Guild - Guild Quests
+
+[Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/930748378122440704)
+
+* When a member contributes to a [guild quest](quests/guild-quests), the member earns points
+* Members can use the points to redeem goodies in the [Guild Shop](shop/guild-shop)
+* When a member leaves a guild, the player loses all points (the member needs to spend all points before leaving).
+
+Similar suggestion by
+[Erp](https://discord.com/channels/658594298983350293/659077000027308104/931922004754452500)
+> Encourage players to do task in clan quests and do the manticore thingy,
+> by Incentivizing points that could be earned by doing the tasks, and in
+> return, players could use them to buy rewards in clan shop (it may
+> consist of gems, shards, dust, medals).
+
+----
+
+## Guild - Chat Translation
+
+[Main suggestion by Mando007](https://discord.com/channels/658594298983350293/659077000027308104/931205666645880852)
+
+> Maybe on the Chat box have a translate option.
+> I can tell that a lot of my clan members do not speak English.
+
+----
+
+## Mystic Store - Items
+
+[Main suggestion by kuroneko3](https://discord.com/channels/658594298983350293/659077000027308104/930747849539452969)
+> Please make the crazy birthday party theme available on mystic store,
+> so people who started the game after the 1st anniversary event can have
+> that pink stage!
 
 <!-- 
 * [Events](events/) with story-telling elements and new challenges
