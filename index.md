@@ -62,6 +62,18 @@ Similar suggestion by
 
 ----
 
+## User Interface - Profiles
+
+* Add starting date to commander profile
+* Add join dates of members to guild [profile](structure/profiles)
+
+[Main suggestion by Slutzie](https://discord.com/channels/658594298983350293/659077000027308104/931971155345162260)
+> Please add starting date to profiles. Would be great to see how long
+> each players has been playing. Also, would be great to know my own
+> starting date.
+
+----
+
 ## User Interface - Clan Battles
 
 [Main suggestion](https://discord.com/channels/658594298983350293/659077000027308104/932544473815207986)
@@ -93,6 +105,14 @@ Similar suggestion by
 > You're only showing the first 200 players in a game played by thousands.
 > The least you can do is show us the current DMG done by the player at
 > each of the thresholds for rewards. 500,1000,2500,etc.
+
+----
+
+## User Interface - Visual Effect
+
+[Main suggestion by kuroneko](https://discord.com/channels/658594298983350293/659077000027308104/932097182708924466)
+
+> Give me an option to cut the lengthy animation effects when fusing soldiers.
 
 ----
 
