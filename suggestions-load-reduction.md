@@ -32,10 +32,23 @@ Ideas on game improvement from players of Art of War:Legion.
 > 1. All daily rewards are sent to Inbox
 > 2. We can receive messages from Clan General in Inbox
 > 3. We can receive a message from Clan General if we are kicked out of a clan
-![Image](../images/ui-command-center-inbox.png)
+
+![Image](images/ui-command-center-inbox.png)
 
 [Suggestion by The Haunter](https://discord.com/channels/658594298983350293/659077000027308104/932187057181294632)
 > have all the reward claims on one page instead of running around searching for claims
+
+----
+
+## Make it easier to claim arena rewards
+
+[Suggestion by Kitsune]()
+> Make it easy to claim [arena](structure/arena) rewards by reusing the "purchase" button:
+> 1. Green "$9.99": No rewards needs claiming. Battle Pass not purchased
+> 2. Yellow "claim all": Some rewards needs claiming.
+> 3. Disabled "claim all": No rewards needs claiming. Battle Pass already purchased
+
+![Image](images/ui-arena-rewards-3.png)
 
 ----
 

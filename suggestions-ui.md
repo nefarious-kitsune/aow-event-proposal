@@ -62,6 +62,6 @@ of feature development.
 
 ----
 
-## Reduce animation time
+## Reduce Temple of Fusion animation
 [Suggestion by kuroneko](https://discord.com/channels/658594298983350293/659077000027308104/932097182708924466)
 > Give me an option to cut the lengthy animation effects when fusing soldiers.

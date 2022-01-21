@@ -23,4 +23,4 @@
 
 | Rankings | Guild Rankings | Dojo | Rewards    |
 | ------- | ------- | -------- |-------------- |
-|![Example](../images/ui-arena-ranks.png)|![Example](../images/ui-arena-guilds.png)|![Example](../images/ui-arena-dojo.png)| |
+|![Example](../images/ui-arena-ranks.png)|![Example](../images/ui-arena-guilds.png)|![Example](../images/ui-arena-dojo.png)|![Image](../images/ui-arena-rewards.png)|
