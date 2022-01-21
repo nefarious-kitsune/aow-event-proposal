@@ -29,3 +29,15 @@ to make adjustments to solve it. Please, stay tuned.
 </blockquote>
 
 ----
+
+## Free formation slot
+
+[Suggestion by Mr LavaLava mmm#0842](https://discord.com/channels/658594298983350293/659077000027308104/925726665810776125)
+> Remove 1000 gem price on extra formation slots
+
+[Developer's response](https://discord.com/channels/658594298983350293/754929508427104258/928579443100905502)
+<blockquote style="color:#b93a35">
+Thank you for your suggestion, but temporarily we have no plans to implement this adjustment.
+</blockquote>
+
+----

@@ -12,15 +12,17 @@ Ideas on game improvement from players of Art of War:Legion.
 ## Suggestions on Discord
 
 * [Load reduction](suggestions-load-reduction)
-* [Farming](suggestions-farming)
 * [User interface](suggestions-ui)
+* [Farming](suggestions-farming)
 * [Clan](suggestions-guild)
-* [Events](suggestions-events)
+* [Events](suggestions-events) (wheel, card master, etc.)
 * [Arena reset time](suggestions-arena-reset)
 * [Honor Hunting](suggestions-hh)
 * [Infinity War](suggestions-iw)
 * [Formation slots](suggestions-slots)
 * [Test of Gods](suggestions-tog)
+* [Resources](suggestions-res) (gem, coin, dust, etc.)
+* [Personalization](suggestions-personalization) (skin, themes, etc.)
 
 ## Growth Funds - Add levels
 
