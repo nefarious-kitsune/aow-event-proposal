@@ -23,6 +23,7 @@ Ideas on game improvement from players of Art of War:Legion.
 * [Test of Gods](suggestions-tog)
 * [Resources](suggestions-res) (gem, coin, dust, etc.)
 * [Personalization](suggestions-personalization) (skin, themes, etc.)
+* [Exp and growth fund](suggestions-exp) (Exp points, Exp levels, growth funds, etc.)
 
 ## Growth Funds - Add levels
 
