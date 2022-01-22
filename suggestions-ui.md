@@ -65,3 +65,18 @@ of feature development.
 ## Reduce Temple of Fusion animation
 [Suggestion by kuroneko](https://discord.com/channels/658594298983350293/659077000027308104/932097182708924466)
 > Give me an option to cut the lengthy animation effects when fusing soldiers.
+
+----
+
+## 👍Mystic shop wishlist and notification
+
+[kuroneko3#7893](https://discord.com/channels/658594298983350293/659077000027308104/921664715464257546)
+> Can you add a wish list feature to the mystic store?
+> It would be nice to have a badge to notify me when something I want is in stock!
+
+[Developer's response](https://discord.com/channels/658594298983350293/754929508427104258/926315631442292746)
+<blockquote style="color:#b93a35">
+Your suggestion is really good, we will make the plans to implement
+something like this. It may take some time to develop, but we will
+announce it if the changes are made.
+</blockquote>

@@ -2,7 +2,7 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-## Exp for dust wheel
+## 👍Exp for dust wheel
 
 [Suggestion by adam667220#5755](https://discord.com/channels/658594298983350293/659077000027308104/924311669369348117)
 > Please consider giving some amount of EXP when hero shards are spent

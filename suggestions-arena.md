@@ -2,7 +2,24 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-## Hold point gain from attack
+## 👍Better matchmaking
+
+[Suggestion by KratosDurden#1028](https://discord.com/channels/658594298983350293/659077000027308104/921897032384409601)
+> Me and a lot of the player base is tired of spending so much time finding
+> suitable opponents in Arena, only to find tons of seondeoks and other
+> specific heroes. [snip]
+
+[Developer's response](https://discord.com/channels/658594298983350293/754929508427104258/931148200344170527)
+<blockquote style="color:#b93a35">
+Thank you for your suggestion. We have already paid attention to this problem,
+and we will focus on solving it to make it easier for players to find suitable
+opponents. We will consider doing it the way you suggested, or maybe will come
+up with another way of implementation. But it is an issue we are paying
+attention to.</blockquote>
+
+----
+
+## Reset time - Hold point gain from attack
 [Suggestion by Jimbo#0102](https://discord.com/channels/658594298983350293/659077000027308104/928071211240554557)
 > [Snip] The idea is you hold all attack gains of the current day, but
 > you allow defensive wins and losses to show up in your score. Then
@@ -16,6 +33,8 @@ Ideas on game improvement from players of Art of War:Legion.
 > adds the points from the gem attacks if you need them.
 
 ----
+
+## Reset time
 
 [Suggestion by Popeyeᴼᴺᴮᴬ#0842](https://discord.com/channels/658594298983350293/659077000027308104/927947050589499452)
 > Please address reset time in all game modes properly this is becoming redicilus

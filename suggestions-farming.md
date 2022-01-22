@@ -46,6 +46,23 @@ the matchmaking mechanism, and we are keeping working on its optimization.
 
 ## 👍Separate farming mode
 
+[Suggestion by KratosDurden#1028](https://discord.com/channels/658594298983350293/659077000027308104/923636925926080562)
+> In order to improve farming and form testing for players,
+> please consider including an option to select difficulty on level 8k:
+>
+> Easy - to farm coins with high probability (opposing forms bellow 50% strength)
+> 
+> Medium - to test changes to forms (opposing forms from 50 to 90% strength)
+> 
+> Hard - to bullet proof test on changes made to forms (opposing forms >90% strength)
+
+[Developer's response](https://discord.com/channels/658594298983350293/754929508427104258/928578606127546389)
+<blockquote style="color:#b93a35">
+Hello Kratos! Your suggestion is really good. It is an interesting idea
+We will consider it. 
+For now, we have intraclan testing. You can use that!
+</blockquote>
+
 [Suggestion by RA SrtaJaky🇧🇷#1809](https://discord.com/channels/658594298983350293/659077000027308104/928622172782624780)
 > The current stage 8000 is great for testing your opponents' defenses.
 > But it greatly increases the cultivation time in the game.
