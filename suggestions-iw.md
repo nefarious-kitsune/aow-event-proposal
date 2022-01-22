@@ -2,7 +2,7 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-## Higher level troops doing less damage
+## 👍Higher level troops doing less damage
 
 [Suggestion by Petrus PT#5302](https://discord.com/channels/658594298983350293/659077000027308104/930070379173675048)
 > Fix IW. It is unacceptable that using the same formation with stronger
@@ -18,7 +18,7 @@ and make sure to keep your game updated.
 
 ----
 
-## More groupings beyond 18
+## ✅More groupings beyond 18
 
 [Suggestion by vilo0119#3330](https://discord.com/channels/658594298983350293/659077000027308104/926321580714381352)
 > [snip] Either create more groupings or give rewards to the top100 finishers

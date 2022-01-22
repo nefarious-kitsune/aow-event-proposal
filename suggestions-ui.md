@@ -70,7 +70,7 @@ of feature development.
 
 ## 👍Mystic shop wishlist and notification
 
-[kuroneko3#7893](https://discord.com/channels/658594298983350293/659077000027308104/921664715464257546)
+[Suggestion by kuroneko3#7893](https://discord.com/channels/658594298983350293/659077000027308104/921664715464257546)
 > Can you add a wish list feature to the mystic store?
 > It would be nice to have a badge to notify me when something I want is in stock!
 
@@ -79,4 +79,21 @@ of feature development.
 Your suggestion is really good, we will make the plans to implement
 something like this. It may take some time to develop, but we will
 announce it if the changes are made.
+</blockquote>
+----
+
+## ❌Access barrack from home page
+
+[Suggestion by AKINCIBEYiᵀᵁᴿᴷ#4697](https://discord.com/channels/658594298983350293/659077000027308104/917005807684567090)
+> There should be a simple button to access our barracks, heroes and troops from the game home screen.
+
+[Developer's response](https://discord.com/channels/658594298983350293/754929508427104258/921356321255739432)
+<blockquote style="color:#b93a35">
+Thank you for your suggestion. This kind of adjustment may have great
+changes to the interaction and may affect other players and make it
+inconvenient for them. Such changes (especially the ones that are done
+with the main screen) need to be taken very cautiously. Therefore, we may
+not make such adjustments in the short term, but thank you very much for
+your concerns and suggestion. We will definitely discuss improving this
+part of the game and its UI.
 </blockquote>

@@ -2,7 +2,7 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-## HH reset advantage
+## ✅HH reset advantage
 
 [Suggestion by Stinfo#3215](https://discord.com/channels/658594298983350293/659077000027308104/929687876663394324)
 > Please fix the honor haunting bug. At the reset when the ancient change

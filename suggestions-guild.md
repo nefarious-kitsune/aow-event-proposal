@@ -2,7 +2,7 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-## Increase clan quest rewards
+## ❌Increase clan quest rewards
 
 [Suggestion by 𝒔 𝒆 𝒃 𝒊 .](https://discord.com/channels/658594298983350293/659077000027308104/930771394562752522)
 > Hello. A solution for extra resources would be that when the clan advances
@@ -22,7 +22,7 @@ and stimulate them to level up their clans.
 
 ----
 
-## Better clan rank rewards
+## 👍Better clan rank rewards
 
 [Suggestion by KBW poka#7798](https://discord.com/channels/658594298983350293/659077000027308104/927363936377004062)
 > With the change in clan rewards the clans ranked #11-100 receives the same
