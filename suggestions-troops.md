@@ -2,7 +2,7 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-## More varieties of 4-star epic troops in 120k pack
+## ❌More varieties of 4-star epic troops in 120k pack
 
 [Suggestion by T-34#7915](https://discord.com/channels/658594298983350293/659077000027308104/915238790409388122)
 > 4* troops of 120K Card draw...

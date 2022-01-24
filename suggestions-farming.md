@@ -34,7 +34,6 @@ Thank you for your suggestion. We have already made some adjustments to
 the matchmaking mechanism, and we are keeping working on its optimization.
 </blockquote>
 
-
 ## Use Hohenheim's coin drop skill without using the hero
 
 [Suggestion by Pompatous](https://discord.com/channels/658594298983350293/659077000027308104/931628565886296116)

@@ -2,7 +2,7 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-## More formation slots
+## 👍More formation slots
 
 [Suggestion by svith#3247](https://discord.com/channels/658594298983350293/659077000027308104/928012707507101756)
 > With the new game mode Clan Hunting, shouldn't there be 4 free formations
