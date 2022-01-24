@@ -47,3 +47,10 @@ more heroes to the packs. We will consider adding new heroes to Super Card
 Pack and Deluxe Card Pack. But we have to be aware that adding them will
 lower the probability for every hero to be drawn.
 </blockquote>
+
+## Add birthday theme to Mystic Store
+
+[Suggestion by kuroneko3](https://discord.com/channels/658594298983350293/659077000027308104/930747849539452969)
+> Please make the crazy birthday party theme available on mystic store,
+> so people who started the game after the 1st anniversary event can have
+> that pink stage!

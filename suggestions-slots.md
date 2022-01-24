@@ -1,4 +1,4 @@
-# Suggestions on Tests of Gods
+# Suggestions on Formation Slots
 
 Ideas on game improvement from players of Art of War:Legion.
 
@@ -30,7 +30,7 @@ to make adjustments to solve it. Please, stay tuned.
 
 ----
 
-## Free formation slot
+## ❌Free formation slot
 
 [Suggestion by Mr LavaLava mmm#0842](https://discord.com/channels/658594298983350293/659077000027308104/925726665810776125)
 > Remove 1000 gem price on extra formation slots
