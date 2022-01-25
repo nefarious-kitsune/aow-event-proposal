@@ -3,6 +3,8 @@
 [The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
 *Ideas from AoW players on changes & improvements to help make the game more interesting.*
 
+[中文版](zh.equipment)
+
 ## Problem
 
 The game has to evolve to keep high-roller players interested.
