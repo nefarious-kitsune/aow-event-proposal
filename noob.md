@@ -22,6 +22,29 @@ highly sought-after troops.
 Your friends or clan mates may suggest that you get Selene, Chione, or Aly.
 However, I would suggest not to worry about your primary arena hero at all.
 
-Instead, you should get Jinn to level 6 - 8 first, and then save all your gems
-and decide on your arena hero much much later.
+Instead, you should get **Jinn** to level 6 - 8 first. Then,
+save all your gems and decide on your arena hero later.
+
+In this game, farming gold coins for troops draw is the hardest and most
+important thing. It's far better to have many good troops to support a level 7
+hero than to have few good troops and a level 15 hero. Jinn and Hohenheim
+can increase coin drops from defeated enemy units in main levels. If you
+rely on Hero Chests and Super Cards to get Hohenheim, you could be playing for
+months and not have Hohenheim at a decent level. Playing Card Master for Jinn
+is a reliable way to improve your gold farming quickly.
+
+## 3. Temple of Fusion
+
+Most players would tell you to save gems for hero, and I used to make that
+advice as well. However, to be honest, very few people stick to it religiously.
+With my main accounts and all of my alt accounts, I have used Temple of Fusion
+before I got the main hero to level 15.
+
+Grinding coin for troops is a long and never-ending process. If you are
+struggling mightily and feel fusing troops is the way out, then by all
+means visit the Temple of Fusion. 
+
+## 4. Ogre Warrior
+
+
 
