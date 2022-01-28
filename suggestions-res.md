@@ -2,7 +2,20 @@
 
 Ideas on game improvement from players of Art of War:Legion.
 
-## More gem from idle rewards
+## Daily log-in rewards
+
+[Suggestion by pat8126#6320](https://discord.com/channels/658594298983350293/659077000027308104/926123147768496128)
+> i want to suggest a calendar system which you can get a reward every time
+> you [sign in](inbox/inbox) and each day have a reward and if you dont
+> sign in 1 day it will rest, the last day you will get a hero
+
+<!-- 
+[Developer's response]()
+<blockquote style="color:#b93a35">
+</blockquote>
+-->
+
+## ❌More gem from idle rewards
 
 [Suggestion by pat8126#6320](https://discord.com/channels/658594298983350293/659077000027308104/926123147768496128)
 > You doubled the coins for the idle chest. Now you should double the gems as well!
@@ -25,6 +38,25 @@ Thank you for your suggestion, these changes would greatly impact the
 existing in-game economy, so temporarily we have no plans to implement
 such big changes or adjustments.
 </blockquote>
+
+## Trade dust for dust of different type
+[Suggestion by andremirandademetrio#8984](https://discord.com/channels/658594298983350293/659077000027308104/936222328549933106)
+> You may create a event for we trade one type of powder for another
+> type of powder, for we reach lvl 17 heroes more faster. Like trade dark
+> powder for human powder for example.
+
+----
+[Suggestion by Inglrs_Bstrd#2145](https://discord.com/channels/658594298983350293/659077000027308104/935540413970919505)
+> ❗️Magic Dust Exchange Event❗️
+> - Twice a year (like Sunshine event)
+> - 1K Magic Dust "we dont want" 🔄 500 Magic Dust "we want"
+> - Limit 100K Magic Dust "we dont want"
+
+<!--
+[Developer's response]()
+<blockquote style="color:#b93a35">
+</blockquote>
+-->
 
 ## ❌Remove x40/x80 from Dust wheel
 
@@ -54,3 +86,18 @@ lower the probability for every hero to be drawn.
 > Please make the crazy birthday party theme available on mystic store,
 > so people who started the game after the 1st anniversary event can have
 > that pink stage!
+
+## Discounts on first-refresh of Mystic Store
+[Suggestion by Arthur ᴿᴳᴿ#1618](https://discord.com/channels/658594298983350293/659077000027308104/936271514150502500)
+> Buff Mystic Store
+> 
+> Free soldier every day is great, thanks.
+> 
+> Suggest you also have 50% off everything on the first page.
+> 
+> If 50% upsets game balance too much, you could go random from 10 to 50%
+> for the other 8 items.
+> 
+> People are often tempted by bargains, and the screenshots of cheaper
+> items bought will fly around the clan discords.
+> [snip]

@@ -82,6 +82,35 @@ more heroes to the packs. We will consider adding new heroes to Super Card
 Pack and Deluxe Card Pack. But we have to be aware that adding them will
 lower the probability for every hero to be drawn.</blockquote>
 
+## Special Wheel of Fortune for collectors
+[Suggestion by 𝓚𝓲𝓽𝓼𝓾𝓷𝓮#0429](https://discord.com/channels/658594298983350293/659077000027308104/936107465815248916)
+
+> Many players are casual players who play this game just to pass time,
+> and many of them have interest in collecting all heroes. Unfortunately,
+> some players join the game too late and missed many Wheel events.
+> Please do two Wheel of Fortune - Collector Edition for the late-comers:
+> 
+> Wheel of Fortune - Collection Edition - Part I
+> ```
+> 0.80%     1× Wukong
+> 0.60%     1× Nezha
+> 0.60%     1× Horus
+> 0.60%     1× Kraken
+> 0.40%     1× Athena
+> [snip]
+> ```
+> 
+> Wheel of Fortune - Collection Edition - Part II
+> ```
+> 0.80%     1× Beowulf
+> 0.60%     1× Poseidon
+> 0.60%     1× Mephisto
+> 0.60%     1× Dracula
+> 0.40%     1× Athena
+> ```
+>
+> [snip]
+
 ## 👍Gifting to players
 [Suggestion by saso vaskov ( Sasho MK )#9478](https://discord.com/channels/658594298983350293/659077000027308104/914941190619672708)
 > Christmas and New Year is coming and I like to send some Battle Pass

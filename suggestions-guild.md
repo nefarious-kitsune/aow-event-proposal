@@ -64,3 +64,26 @@ game and design more levels for rewards.
 > I can tell that a lot of my clan members do not speak English.
 
 ----
+
+## Trading between clan members
+
+[Suggestion by RU книжник W ʷᵒˡᶠ#8025](https://discord.com/channels/658594298983350293/659077000027308104/936204661474590730)
+
+> Hello, what about do trade with guild companions? Like trade
+> honor hunting medal for coins, or gems for coins, or coins for
+> medals , or money for something a guild comrade have? Like, a
+> lot of medals and gems for skin a companion have and I wanna?
+> 
+> And I’m not the only one think about it.
+> 
+> Or do gifts ?
+
+
+[Suggestion by vilo0119#3330](https://discord.com/channels/658594298983350293/659077000027308104/936204661474590730)
+> Allow players to trade their dust with their clanmates. Most players only
+> need 1-2 types of dust and letting us trade between clan members will allow
+> us to build our heroes faster and would also promote a lot more clan
+> interaction. 1:1 ratio should be good and it should not hurt the game
+> economy much at all. I currently have a lot of Dark and Human dust that
+> I will never use so why not let me trade it with another clanmate who
+> needs the dust better.
