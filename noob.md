@@ -41,7 +41,7 @@ rely on Hero Chests and Super Cards to get Hohenheim, you could be playing for
 months and not have Hohenheim at a decent level. Playing Card Master for Jinn
 is more reliable way to improve your gold farming quickly.
 
-## 3. Formation Basics
+## 3. Basic Formations
 
 The following are basic formations beginners should work on.
 
@@ -49,7 +49,58 @@ The following are basic formations beginners should work on.
 | ------------------ | ------------- | ------------ |
 |![Example](images/starter-formation-arena.png)|![Example](images/starter-formation-honor-hunting.png))|![Example](images/starter-formation-infinity-war.png)|
 
-## 4. Temple of Fusion
+## 4. Basic Troops
+
+The following are some of the **value troops** you need to keep:
+
+**Undead Soldier**: basic troops that can revive once. Put them in the
+front. If you have spare units, put some in the back.
+
+**Magic Apprentices**: assassin units who can deal AoE damage.
+Put them in the front so they can reach enemy's back faster.
+
+**Goblikazes**: self-exploding units that can weaken enemy's front
+line. Put them in the first and last rows.
+
+**Ghost Assassins**: assassin units that blink to the
+enemy's back. Position them so they can trigger enemy's back-row Goblikazes.
+
+**Ballista**: powerful range units that deal piercing AoE damage.
+They have limited ranges, so put them in row 2-3 if possible.
+
+**Ice Mages**: powerful long-range units that deal AoE damage.
+
+**Archers**: fast-attacking long-range units.
+
+The following are some **utility troops** you need to keep:
+
+**Goblin Tech**: engineering troops that construct cannons that
+produce AoE damage. They are very useful for Infinity War.
+
+**Bandits**: a Bandits unit throws five daggers (long-range attack) at start
+of the battle and then switch to melee (close-range) attack. They have high
+attack speed and power, and they can be use as stand-in for almost any troops.
+
+The following are some **filler troops** (placeholders) you need to keep
+in the beginning: Fire Mages, Ogre Warrior, Paladin, Harbinger of Fire, and
+Cactuses.
+
+## 5 AoE
+
+You may have noticed I used the term AoE a few times. AoE stands for
+"Area of Effect". Many troops have attacks that deal damage to multiple
+units in an area.
+
+Magic Apprentices, for example, throw magic potion that deal damage in
+a circular area. So even though Magic Apprentices have low attack power
+on paper, they are incredibly effective in battles.
+
+## 6. Acquiring troops
+
+
+## 7. Honor Hunting
+
+## 8. Temple of Fusion
 
 Most players would suggest that beginners should save gems for hero first
 and avoid visiting the Temple of Fusion, and I used to make that advice as well.
@@ -61,20 +112,8 @@ Grinding coin for troops is a long and never-ending process. If you are
 struggling mightily and feel fusing troops is the way out, then by all
 means visit the Temple of Fusion.
 
-Some tips on fusion:
-1. Hold off fusing any 9-load troops until you can make a proper Honor Hunting
-formation (see #4 Honor Hunting)
+When you fuse troops, make sure the fusion has no negative effect on your
+three basic formations.
 
-2. When you fuse troops, start with the following troops as fusion fodder:
-   - Iron Guards, Hell Jailers,
-   - 
-
-
-## 4. Honor Hunting
-
-
-
-## 4. Level 9 Troops Ogre Warrior
-
-
+## 9. Level 9 Troops (Ogre Warrior???)
 
