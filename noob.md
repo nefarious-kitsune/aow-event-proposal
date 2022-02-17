@@ -5,14 +5,21 @@ by Kitsune
 I have played Art of War: Legions for almost two years now.
 Currently my arena rank hovers at around 1,000.
 
-I started this game as an F2P (free-to-play) player, and I have restarted
-playing this game with several alt accounts, so I have some
-experience *being a new* player*.
+I also have several alt accounts in this game, so I have some
+experience *being a new player*.
 
 The following is a guide for complete beginners.
 Some advices here may be quite subjective.
 
-## 1. Starting out
+## 1. Join the community
+
+If I have to name one thing every player must do, then it is
+**joining the Discord community**. You can meet many active players
+and ask questions about how to best this game. Almost all active
+clans have their own Discord servers, so participating in Discord
+chat is the best way to find and join good clans.
+
+## 2. Leveling
 
 When you first start the game, you should progress to level 3000 as quickly
 as possible so you can unlock most troops and game features. The first
@@ -23,7 +30,7 @@ Try to hold off on opening Troops Chests until you pass level 3000 (where
 Frost Archers are unlocked). You want to maximize your chance of getting this
 highly sought-after troops.
 
-## 2. Your first hero
+## 3. Your first hero
 
 Your friends or clan mates may suggest that you get Selene, Chione, or Aly.
 However, I would suggest not to worry about your primary arena hero.
@@ -41,7 +48,7 @@ rely on Hero Chests and Super Cards to get Hohenheim, you could be playing for
 months and not have Hohenheim at a decent level. Playing Card Master for Jinn
 is more reliable way to improve your gold farming quickly.
 
-## 3. Basic Formations
+## 4. Starter Formations
 
 The following are basic formations beginners should work on.
 
@@ -49,7 +56,7 @@ The following are basic formations beginners should work on.
 | ------------------ | ------------- | ------------ |
 |![Example](images/starter-formation-arena.png)|![Example](images/starter-formation-honor-hunting.png))|![Example](images/starter-formation-infinity-war.png)|
 
-## 4. Basic Troops
+## 5. Basic Troops
 
 The following are some of the **value troops** you need to keep:
 
@@ -66,7 +73,7 @@ line. Put them in the first and last rows.
 enemy's back. Position them so they can trigger enemy's back-row Goblikazes.
 
 **Ballista**: powerful range units that deal piercing AoE damage.
-They have limited ranges, so put them in row 2-3 if possible.
+They have limited shooting ranges, so put them in row 2-3 if possible.
 
 **Ice Mages**: powerful long-range units that deal AoE damage.
 
@@ -85,22 +92,21 @@ The following are some **filler troops** (placeholders) you need to keep
 in the beginning: Fire Mages, Ogre Warrior, Paladin, Harbinger of Fire, and
 Cactuses.
 
-## 5 AoE
+## 6. AoE
 
 You may have noticed I used the term AoE a few times. AoE stands for
 "Area of Effect". Many troops have attacks that deal damage to multiple
 units in an area.
 
 Magic Apprentices, for example, throw magic potion that deal damage in
-a circular area. So even though Magic Apprentices have low attack power
+a circular area. So although Magic Apprentices have low attack power
 on paper, they are incredibly effective in battles.
 
-## 6. Acquiring troops
+## 7. Acquiring troops
 
+## 8. Honor Hunting
 
-## 7. Honor Hunting
-
-## 8. Temple of Fusion
+## 9. Temple of Fusion
 
 Most players would suggest that beginners should save gems for hero first
 and avoid visiting the Temple of Fusion, and I used to make that advice as well.
@@ -109,11 +115,11 @@ With any of my main and alt accounts, I have used Temple of Fusion
 before I got the main hero to level 15.
 
 Grinding coin for troops is a long and never-ending process. If you are
-struggling mightily and feel fusing troops is the way out, then by all
+mightily struggling and feel fusing troops is the way out, then by all
 means visit the Temple of Fusion.
 
 When you fuse troops, make sure the fusion has no negative effect on your
 three basic formations.
 
-## 9. Level 9 Troops (Ogre Warrior???)
+## 10. Level 9 Troops (Ogre Warrior???)
 
