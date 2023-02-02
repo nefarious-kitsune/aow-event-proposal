@@ -11,7 +11,7 @@
 
 **Fire** is an element that can be controlled by Human, Wild, and Divine domains. Because Fire produces light, the Chaos domain cannot control Fire. Examples: Davison (human), Aly (wild), Nezha (divine)
 
-**Wind** is an element that can be controlled by the Wild and Divine domains. Examples: Kraken (wild), Chione (divine)
+**Ice** is an element that can be controlled by the Wild and Divine domains. Examples: Kraken (wild), Chione (divine)
 
 **Counter Relationships**
 * Wind > Fire > Ice
