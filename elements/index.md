@@ -68,89 +68,102 @@ Because Fire produces light, the Chaos Domain CANNOT control Fire.
 
 -----
 
-## Tech
+## Tech and Tech Repair
 
-**Tech** is an element that is controlled by the Human and Wild domain. Examples: Planck, Ballista, Goblin Cannon.
+**Tech** is an element controlled by the Human and Wild Domain.
+
+**Tech Repair** is an element controlled by the Human Domain.
+
+|          | Tech          |
+| ---------| ------------- |
+| Human    | Ballista      |
+| Wild     | Goblin Cannon |
+| Divine   | n/a           |
+| Chaos    | n/a           |
 
 **Suggested change**
-- Introduce __Bomb Machine__ which produces walking bombs that produces small explosion upon contact with enemy troops.
-
+- Tech units should have special immunity to Magical attacks.
+- Tech units should have special immunity to Control and Binding, but not to Stalling
+- Planck should have the ability of Tech Repair
+- Rework the ugly Harrison design so he becomes a cyborg.
+- Introduce a Crocodilian Cyborg hero that projects metal balls from a prosthetic arm. At level-11 or above, the metal balls would become walking bombs that produces small explosion upon contact with enemy troops.
 
 -----
 
-# Time Travel, Summoning, Revival
+## Time Travel, Summoning, Revival
 
-**Time Travel** is an element that can be manipulated by the Human domain.
+**Time Travel** refers to moving animate and inanimate objects **across time**.
 
-**Summoning** is an element that is controlled by the Divine and Chaos domains. Examples: Dracula (bats), Athena (spears).
+**Summoning** refers to moving animate and inanimate objects **across space**.
 
-**Revival** is an element that can be controlled by the Chaos domain.
+**Revival** refers to reviving killed units.
 
 Note that these are distinctive concepts, and rules regarding troops revival need to be rewritten (see Edict below)
 
 **Suggested change**
-- Introduce a new Sacred hero that can summon troops to the field. For example, when a Human troops died honorably in the battle field (dealt XXX damage from __basic attack__ before death), **Odin** would ordain the troops into __Valhalla__, and Odin would periodically summon the troops back into the field.
+- Introduce a new Sacred hero that can summon troops to the field. For example, when a Human troops died honorably in the battle field (e.g. the troops dealt at least 1000 damage from basic attack before death), **Odin** would ordain the troops into Valhalla, and Odin would be able to summon the troops back into the field once.
 
 -----
 
-# Edict
+## Human Edict and Divine Edict
 
-Kings in the Human and Divine domains can impose restrictions (**Edicts**) on the battle field.
+Rulers in the Human and Divine Domains can impose rules (**Edicts**) on the battle field.
 
-For example, Horus can impose an edict that prohibits certain natural rules to be changed (e.g. Time Traveling and Revival).
+Edicts are rules that cannot be affected by any skill of another hero.
 
-For example, Jinn can grant the Last Wish.
+Human Edicts specifically only affect friendly units. For example, a Strategist Hero (such as Zhuge Liang/诸葛亮) would provide buffs to friendly troops according to their positions. 
+
+Divine Edicts specifically only affect enemy units. For example, Horus prevent enemy units from manipulating natural laws of time, space, and life (e.g. no time travel or revival).
 
 **Suggested change**
-- Change Horus's skill description so that he prohibits Time Traveling and Troops Summoning by non-Sacred units. The new skill would allow Horus to prohibit the summoning of reflection (Ainz), bats (Dracula), demons (Mephisto), skeletons, and small spiders (Spider Queen), but the Edict would not affect Jinn's Last Wish and Odin's calling troops from __Valhalla__).
-- Change the skills of Ivan and Beowulf so they can impose some kind of rules.
+- Change Horus's skill description so that he prohibits Time Traveling and Troops Summoning by non-Sacred units. The new skill would allow Horus to prohibit the summoning of reflection (Ainz), bats (Dracula), demons (Mephisto), skeletons, and small spiders (Spider Queen), but the Edict would not affect Jinn's Last Wish and Odin's calling troops from Valhalla).
+- Introduce new Human heroes that can impose Edicts on friendly troops.
 
 -----
 
-# Armor, Toughen, Aureole, and Curse
+## Armor, Toughen, Aureole, and Curse
 
-The Human domain can use technology and innovation to provide **armor** to the troops. The **Armor** can have special property such as *Energy Absorption and Blast* and *Damage Reflection*.
+Units in the Human Domain can use technology to create **Armor** with special property such as *Energy Absorption and Blast* and *Damage Reflection*. The amor can be worn by units of *all* domains. The armor can also increase sharpness of weaponry and ignores the **Toughen** ability of the Wild Domain. Armor has no effect against **Curse**.
 
-**Toughen** is an element that is controlled by the Wild domain. Examples: Kraken.
+Units in the Wild Domain can harden their skin or protective scales to **Toughen** themselves and greatly increase endurance against both physical and poison attacks. Heroes in the Wild Domain can only toughen *themselves* with Active and Passive skills. However, they may toughen other Wild units with Legendary and Domain Synergy under some circumstances.
 
-**Aureole** is protection via God's blessing and is is controlled by the Divine domain.
+Units in the Divine Domain can provide **Aureole** that provide immunity to damage, control, and curse. However, **Aureole** is not effective against Poison attacks from the Wild Domain.
 
-**Curse** is an element that is controlled by the Chaos domain. Examples: Voodoo Dolls.
+Units in the Chaos domain can **curse** enemy units.
 
 **Counter Relationships**
-* Armor > Toughen > Aureole > Curse
+* Armor > Toughen > Aureole > Curse > Armor
 
 Note: Aureole does not counter Armor
 
 **Suggested change**
-- Change Selene's skill so that her passive skill allows troops to be immune to all curses (Voodoo Dolls, Dark Witch) and all control effect from the *Chaos* domain (e.g. ignore stun from Yasha and Meteor Golem, but affected by Aly's stun effect). Reduce Selene's damage immunity to balance the game.
+- Change Arthur so he provides **armors** which ignores Toughen ability of the Wild Domain.
+- Change Selene's skill so that her passive skill allows troops to be immune to all curses (Voodoo Dolls, Dark Witch) and all control effect from the Chaos and Human Domains (e.g. Yasha's stun is ignored, but Aly's stun is not). Reduce Selene's damage immunity to balance the game.
 - Change Cactuses skill so that they have fixed physical counter attack instead of Reflection
 
 -----
 
 # Power
 
-**Power** (energy) is an element that is controlled by the Wild and Divine domains. Examples: Aly, Athena.
-
-This is a catch-all element for some non-elemental attacks, such as Taurus Witchers' energy blasts.
+**Power** (energy) is a catch-all element for attacks that do not fall into other elements, such as Taurus Witchers' energy balls.
 
 -----
 
-# Stalling, Control, and Binding
+## Stalling, Control, and Binding
 
-**Stalling** is an element that is controlled by the Wild and Chaos domains.
+**Stalling** refers to delay of skill releases (e.g. Ivan and Harrison's skills) and slow-down of troops (e.g. Ice Mage's skill)
 
-**Binding**
+**Binding** refers to interrupting attacks and movements without other special effects.
 
-**Control** is an element that is controlled by the Wild and Chaos domains.
+**Control** refers to interrupting enemy units with special effects, such as stun and taunt.
 
-**Counter Relationships**
-* Wild Control ignores control immunity of the Divine domain.
-* Chaos Control ignores control immunity of the Human domain.
+**Suggested change**
+- Change description of Ice Dragon so that the Dragon is vulnerable specifically to Control of Chaos Domain.
+- Change skills of Nezha and Selene so that they no longer stun enemy units. For example, when Selene releases skill on Aly, Aly would momentarily stop charging the ball, but Aly would be able to release the ball later. However, the interrupt skill does not force re-targeting (no side effect), so Aly would release the ball at the original target and likely miss.
 
 -----
 
-# Poison
+## Poison
 
 **Poison** is an element that is controlled by the Wild and Chaos domains.
 
@@ -170,7 +183,7 @@ Poison has the special property that it deals *internal* damage that ignore cert
 
 -----
 
-# Mimicry
+## Mimicry
 
 **Mimicry** is an element that is controlled by the Wild domains.
 
