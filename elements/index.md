@@ -17,10 +17,6 @@
 * Wind > Fire > Ice
 * Fire > Shadow
 
-**Suggested change**
-- Introduce Fire Archers (dark) so that there are 9-load range units in all 4 domains
-- Introduce a new dark hero with Fire ability
-
 -----
 
 # Light
