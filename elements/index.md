@@ -1,47 +1,74 @@
-# Elements and Domains
+# Domains and Elements
 
 [The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
 *Ideas from AoW players on changes & improvements to help make the game more interesting.*
 
-![Example](../images/elements.png)
+## Domains
 
-# Wind, Fire, and Ice
+Change unit grouping from *Races* to *Domains*. "Domain" is a more generic umbrella concept than "Race" and provides better grouping logics.
 
-**Wind** is an element that can be controlled by the Wild and Divine domains. Examples: Freyja (wild), Nezha (divine)
+For example, Ballista and Goblin Cannons are inanimate objects constructed by humans and wild beings, and are more aptly described as units of Human Domain and Wild Domain.
 
-**Fire** is an element that can be controlled by Human, Wild, and Divine domains. Because Fire produces light, the Chaos domain cannot control Fire. Examples: Davison (human), Aly (wild), Nezha (divine)
+Change "Dark Race" to "Chaos Domain". There are Supernatural units that are neither from the natural world or the underworld. For example, Meteor Golem should be better described as alien beings belonging to the Chaos Domain.
 
-**Ice** is an element that can be controlled by the Wild and Divine domains. Examples: Kraken (wild), Chione (divine)
+Change "Racial Synergy" and "Racial Restraint" to "Domain Synergy" and "Domain Restraint".
+
+## Skill Elements
+
+Reclassify attack and defense skills as Skill Elements that occupy specific Domains.
+
+![Elements](../images/elements.png)
+
+## Air, Fire, and Ice
+
+**Air** can either enhance fire or suppress fire; because of this controlling ability, Air dominates Fire. Note, however, Air has no effect on *Light*, which can sometimes be mistaken as Fire.
+
+**Fire** can melt Ice; therefore, Fire dominates Ice.
+
+**Ice** affects temperature, which regulates air flow; therefore, Ice dominates Air.
+
+Because Fire produces light, the Chaos Domain CANNOT control Fire. 
+
+|          | Air       | Fire      | Ice     |
+| ---------| --------- | ----------| --------|
+| Human    | n/a       | Davison   | n/a     |
+| Wild     | Frejya    | Aly       | Kraken  |
+| Divine   | Nezha     | Nezha     | Chione  |
+| Chaos    | n/a       | n/a       | Kelvins |
 
 **Counter Relationships**
 * Wind > Fire > Ice
 * Fire > Shadow
 
+**Suggested change**
+- Heroes that controls Air should have the ability to increase physical range attacks. Therefore, Freyja's passive skill should allow for additional damage from *physical* range attacks.
+- Heroes that controls Air should have the ability to suppress fire attacks. Therefore, Freyja's legendary skill should be changed to damage reduction from Fire attacks (both basic and skill).
+
 -----
 
-# Light
+## Light and Shadow
 
-**Light** (including __Lightening__) is an element that is __exclusively__ controlled by the Divine domain. Examples: Apollo, Selene, Zeus, Odin
+**Light** (including __Lightening__) is an element that is __exclusively__ controlled by the Divine domain.
+
+**Shadow** is an element controlled by the Chaos domain.
+
+|          | Light     | Shadow    |
+| ---------| --------- | ----------|
+| Human    | n/a       | n/a       |
+| Wild     | n/a       | n/a       |
+| Divine   | Apollo    | n/a       |
+| Chaos    | n/a       | Mephisto  |
 
 **Counter Relationships**
 * Light > Shadow
 
 **Suggested change**
 - Change the Spider Queen description. She lives in the shadow, so she is from the Chaos domain and should be vulnerable to both Light and Fire attack.
-- Change the special effect of **Priest Mage** from red flame to golden energy blast. Since Light still beats Shadow (Spider Queen), this will not affect the game play.
+- Change the special effect of **Priest Mage** from red flame to golden energy blast. Since Light counters Shadow (Spider Queen), this will not affect Spider Queen campaigns.
 
 -----
 
-# Shadow
-
-**Shadow** is an element that is controlled by the Chaos domain. Examples: Mephisto, Demon
-
-**Counter Relationships**
-* Light > Shadow
-
------
-
-# Tech
+## Tech
 
 **Tech** is an element that is controlled by the Human and Wild domain. Examples: Planck, Ballista, Goblin Cannon.
 
@@ -51,9 +78,9 @@
 
 -----
 
-# Time Control, Summoning, Revival
+# Time Travel, Summoning, Revival
 
-**Time** is an element that can be manipulated by the Human domain.
+**Time Travel** is an element that can be manipulated by the Human domain.
 
 **Summoning** is an element that is controlled by the Divine and Chaos domains. Examples: Dracula (bats), Athena (spears).
 
@@ -109,14 +136,17 @@ This is a catch-all element for some non-elemental attacks, such as Taurus Witch
 
 -----
 
-# Control
+# Stalling, Control, and Binding
+
+**Stalling** is an element that is controlled by the Wild and Chaos domains.
+
+**Binding**
 
 **Control** is an element that is controlled by the Wild and Chaos domains.
 
 **Counter Relationships**
 * Wild Control ignores control immunity of the Divine domain.
 * Chaos Control ignores control immunity of the Human domain.
-
 
 -----
 
@@ -147,9 +177,3 @@ Poison has the special property that it deals *internal* damage that ignore cert
 **Suggested Changes**
 
 * **Slim** - When attacked by a troops, the slim turns into a copy of that troops. Cannot be cursed by Voodoo Dolls.
-
-
-
-
-
-
