@@ -18,7 +18,7 @@ Natural Elements are to be grouped into 3 *pairs* of sub-elements:
   <tbody>
     <tr>
       <td rowspan=6>Natural Elements</td>
-      <td rowspan=2>Power and energy</td>
+      <td rowspan=2>Power</td>
       <td>Fire</td>
       <td>Very powerful. Resistance to Freezing.</td>
     </tr>
@@ -27,7 +27,7 @@ Natural Elements are to be grouped into 3 *pairs* of sub-elements:
       <td>Somewhat powerful. Resistance to Control.</td>
     </tr>
     <tr>
-      <td rowspan=2>Darkness and control</td>
+      <td rowspan=2>Darkness</td>
       <td>Ice</td>
       <td>Binding (Freezing)</td>
     </tr>
