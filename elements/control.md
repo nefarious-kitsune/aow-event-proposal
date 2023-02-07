@@ -12,7 +12,7 @@
 ## Suggested Solution
 
 - Redesign control such that players need to use **a variety of troops** to maximize their skills
-- Split "control" into three distinct types: Controlling, Stalling, and Transformation
+- Split "control" into three distinct types: Disruptive, Stalling, and Transformation
 - Design controls such that each type has both **strength** and **weakness**
 - Design controls such that controls of same type cannot stack
 - Design controls such that controls of different type can **enhance** one another
@@ -22,11 +22,11 @@
 ## Mechanics
 
 There are 3 types of Control
-- controlling
-- stalling
-- transformation
+- Disruptive
+- Stalling
+- Transformation
 
-Each unit has one clock for controlling and one or more clocks for stalling
+Each unit has one clock for Disruptive and one or more clocks for stalling
 
 <table style="border-collapse: collapse; border: 1px solid">
   <thead>
@@ -40,7 +40,7 @@ Each unit has one clock for controlling and one or more clocks for stalling
   </thead>
   <tbody>
     <tr>
-      <td rowspan=3>Controlling</td>
+      <td rowspan=3>Disruptive</td>
       <td>Stun</td>
       <td>Stop attack or moving</td>
       <td>Skill and targeting reset</td>
@@ -101,23 +101,22 @@ Each unit has one clock for controlling and one or more clocks for stalling
 
 ------
 
-## Controlling
+## Disruptive
 
-Controlling is interruption *with* some secondary effect.
+Disruptive is interruption *with* some secondary effect. It can be either Physical (Stun) or 
+Psychic (Fear, Taunt, Spook, Mind Control)
 
-There are 3 sub-types: Stun, Fear, and Taunt.
-
-### Characteristics of Controlling
-- Controlling has one or more secondary effects
+### Characteristics of Disruptive
+- Disruptive has one or more secondary effects
   - Target reset: effected unit will reselect a target
   - Skill reset: reset effected unit's trigger number (for example, effected Peltasts would drop their "Fighting spirit" effect) and *cause Aly to drop the bomb*
-- Controlling skill cannot affect existing controlling effect`
+- Disruptive skill cannot affect existing Disruptive effect`
   - For example: if a troops is stunned for 3 seconds, the troops cannot be affected by fear, taunt, transformation, or another stun until the 3 seconds has lapsed
-- Controlling effect can be **removed**
+- Disruptive effect can be **removed**
   - Example 1: if Aly is stunned for 3 seconds, and the cooldown of her skill ended within the 3 seconds, Aly can break free from the stun effect and release her skill
   - Example 2: if a unit is stunned, the effect can be removed by a Nun or another support unit
-  - Example 3: when a unit is protected by Control Immunity skill, the unit cannot be affected by any Controlling skill
-- Controlling does not affect cooldown clock
+  - Example 3: when a unit is protected by Control Immunity skill, the unit cannot be affected by any Disruptive skill
+- Disruptive does not affect cooldown clock
   - Example: if Orc Hunters is stun for 3 seconds, they can escape from the stun when their  cooldown clock resets.
 ### Stun
 
@@ -166,9 +165,9 @@ Slowing (such as Ice Mage's slowing skill) cause effected unit to slow down.
 
 ------
 
-## Using Controlling and Stalling
+## Using Disruptive and Stalling
 
-Controlling and Stalling each have their own strength and weakness.
+Disruptive and Stalling each have their own strength and weakness.
 
 <table style="border-collapse: collapse; border: 1px solid">
   <thead>
@@ -180,7 +179,7 @@ Controlling and Stalling each have their own strength and weakness.
   </thead>
   <tbody>
     <tr>
-      <td>Controlling</td>
+      <td>Disruptive</td>
       <td>Useful secondary effect (such as skill reset)</td>
       <td>Can be removed. Cannot stack.</td>
     </tr>
@@ -196,7 +195,7 @@ The two types are designed such that
 - overusing one type of control can be counter productive
 - proper mixing of the two types can help maximizing the control effect
 
-When a unit is under a Stalling effect, and the unit is affected by a Controlling skill, the *primary* effect of the Controlling skill would not apply, but the *secondary* effect of the Controlling skill would apply.
+When a unit is under a Stalling effect, and the unit is affected by a Disruptive skill, the *primary* effect of the Disruptive skill would not apply, but the *secondary* effect of the Disruptive skill would apply.
 
 Example 1: If Aly is stun by Pirate Ship, and during the stun period Aly is affected by the Primal Fear skill of the Witchcraft Totem, Aly will not flee and the stun time will not be extended.
 
