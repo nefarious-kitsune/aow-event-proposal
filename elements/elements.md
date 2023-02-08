@@ -3,7 +3,7 @@
 
 ## Skill Elements
 
-Reclassify attack and defense skills as Skill Elements that occupy specific Domains.
+Classify attack and defense skills as Skill Elements that occupy specific Domains.
 
 <table style="border-collapse: collapse; border: 1px solid">
   <thead>
@@ -16,7 +16,7 @@ Reclassify attack and defense skills as Skill Elements that occupy specific Doma
   </thead>
   <tbody>
     <tr>
-      <td rowspan=9><a href="control">Control</a></td>
+      <td rowspan=10><a href="control">Control</a></td>
       <td rowspan=3>Disruptive</td>
       <td>Stun</td>
       <td rowspan=3>Interrupt enemy action and have secondary effects. Can be nullified by Control Immunity, Control Resistance, Control Removal, and triggering of skill</td>
@@ -39,12 +39,15 @@ Reclassify attack and defense skills as Skill Elements that occupy specific Doma
       <td>Slowing</td>
     </tr>
     <tr>
-      <td rowspan=3>Transformation</td>
+      <td rowspan=4>Transformation</td>
       <td>Knock-back</td>
-      <td rowspan=3>Create physical change to the enemy units. Have secondary effect.</td>
+      <td rowspan=4>Create physical change to the enemy units. May have a secondary effect.</td>
     </tr>
     <tr>
-      <td>Snatching</td>
+      <td>Pushing</td>
+    </tr>
+    <tr>
+      <td>Pull-in</td>
     </tr>
     <tr>
       <td>Conversion</td>
@@ -123,14 +126,26 @@ Reclassify attack and defense skills as Skill Elements that occupy specific Doma
       <td>Enforcing laws</td>
     </tr>
     <tr>
-      <td rowspan=2>Special</td>
-      <td>Human and Wild</td>
-      <td>Tech</td>
-      <td rowspan=3>Special to specific domains</td>
+      <td rowspan=6>Other</td>
+      <td rowspan=2>Creation</td>
+      <td>Build</td>
+      <td rowspan=6>Other elements</td>
     </tr>
     <tr>
-      <td>Wild</td>
+      <td>Magical Forge</td>
+    </tr>
+    <tr>
+      <td rowspan=4>Biological</td>
       <td>Mimicry</td>
+    </tr>
+    <tr>
+      <td>Parasitism</td>
+    </tr>
+    <tr>
+      <td>Spawn</td>
+    </tr>
+    <tr>
+      <td>Transmutation</td>
     </tr>
   </tbody>
 </table>

@@ -1,22 +1,5 @@
 # Control
 
-[The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
-*Ideas from AoW players on changes & improvements to help make the game more interesting.*
-
-## Problem
-
-- Some skill elements have no weakness
-- Players often *stack* skill elements by using a large number of the *same* troops
-- The game sometimes feels like a monotonous war of *resource* rather than a war of *strategy*
-
-## Suggested Solution
-
-- Redesign control such that players need to use **a variety of troops** to maximize their skills
-- Split "control" into three distinct types: Disruptive, Stalling, and Transformation
-- Design controls such that each type has both **strength** and **weakness**
-- Design controls such that controls of same type cannot stack
-- Design controls such that controls of different type can **enhance** one another
-
 -----
 
 ## Mechanics

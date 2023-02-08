@@ -20,7 +20,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan=9><a href="control">控制</a></td>
+      <td rowspan=10><a href="control">控制</a></td>
       <td rowspan=3>擾亂</td>
       <td>眩暈</td>
       <td rowspan=3>打斷敵人的行動並產生次要效果。 可以被控制免疫、控制抗性、控制移除和技能觸發無效化</td>
@@ -43,12 +43,15 @@
       <td>減速</td>
     </tr>
     <tr>
-      <td rowspan=3>變化</td>
+      <td rowspan=4>變化</td>
       <td>擊退</td>
-      <td rowspan=3>對敵方單位造成物理變化。 有次要作用.</td>
+      <td rowspan=3>對敵方單位造成物理變化。 可能有次要作用.</td>
     </tr>
     <tr>
-      <td>捕捉</td>
+      <td>推動</td>
+    </tr>
+    <tr>
+      <td>拉進</td>
     </tr>
     <tr>
       <td>轉換</td>
@@ -127,14 +130,26 @@
       <td>實行法則</td>
     </tr>
     <tr>
-      <td rowspan=2>特殊</td>
-      <td>人域與野域</td>
-      <td>科技</td>
-      <td rowspan=3>專用於特定領域</td>
+      <td rowspan=6>其他</td>
+      <td rowspan=2>創造</td>
+      <td>建造</td>
+      <td rowspan=6>其他元素</td>
     </tr>
     <tr>
-      <td>野域</td>
+      <td>魔法鍛造</td>
+    </tr>
+    <tr>
+      <td rowspan=4>生物</td>
       <td>模仿</td>
+    </tr>
+    <tr>
+      <td>寄生</td>
+    </tr>
+    <tr>
+      <td>生成</td>
+    </tr>
+    <tr>
+      <td>蛻變</td>
     </tr>
   </tbody>
 </table>
