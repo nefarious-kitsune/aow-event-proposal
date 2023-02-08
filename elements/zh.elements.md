@@ -12,16 +12,16 @@
 <table style="border-collapse: collapse; border: 1px solid">
   <thead>
     <tr>
-      <th>Type</th>
-      <th>Concept</th>
-      <th>Sub-Type</th>
-      <th>Conceptual Description</th>
+      <th>類型</th>
+      <th>概念</th>
+      <th>子類型</th>
+      <th>概念描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan=9><a href="control">控制</a></td>
-      <td rowspan=3>破壞性的</td>
+      <td rowspan=3>擾亂</td>
       <td>眩暈</td>
       <td rowspan=3>打斷敵人的行動並產生次要效果。 可以被控制免疫、控制抗性、控制移除和技能觸發無效化</td>
     </tr>

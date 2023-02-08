@@ -1,6 +1,5 @@
 
-[The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
-*Ideas from AoW players on changes & improvements to help make the game more interesting.*
+[Skill Elements](elements.md) > Natural Elements
 
 # Natural Elements
 
@@ -17,13 +16,13 @@ Natural Elements are to be grouped into 3 *pairs* of sub-elements:
   </thead>
   <tbody>
     <tr>
-      <td rowspan=6>Natural Elements</td>
+      <td rowspan=7>Natural Elements</td>
       <td rowspan=2>Power</td>
       <td>Fire</td>
       <td>Very powerful. Resistance to Freezing.</td>
     </tr>
     <tr>
-      <td>Light</td>
+      <td>Light / Spirit</td>
       <td>Somewhat powerful. Resistance to Control.</td>
     </tr>
     <tr>
@@ -36,8 +35,12 @@ Natural Elements are to be grouped into 3 *pairs* of sub-elements:
       <td>Control (Fear/Taunt)</td>
     </tr>
     <tr>
-      <td rowspan=2>Support</td>
+      <td rowspan=3>Support</td>
       <td>Air</td>
+      <td>Enhancement</td>
+    </tr>
+    <tr>
+      <td>Water</td>
       <td>Enhancement</td>
     </tr>
     <tr>
@@ -111,7 +114,7 @@ These elements are *support* elements for the other Natural Elements.
 - Can be *enhanced* by Air and Fire
 - Can be *countered* by Earth, Ice, and Tech
 
-**Fire Archers** (Fire/Physical)
+**Fire Gunners** (Fire/Physical)
 - Use the Fire Element to deal massive damage
 - Have additional Freezing Resistance
 - Can be *enhanced* by Air

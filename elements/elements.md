@@ -1,9 +1,5 @@
-## Skill Elements
-
-[The AoW Ideas project](https://github.com/nefarious-kitsune/aow.ideas):
-*Ideas from AoW players on changes & improvements to help make the game more interesting.*
-
-[中文版](zh.elements)
+* [Main](index) > [Skill Elements](elements) > Natural Elements
+* [中文版](zh.elements)
 
 ## Skill Elements
 
@@ -91,7 +87,7 @@ Reclassify attack and defense skills as Skill Elements that occupy specific Doma
       <td>Life Steal</td>
     </tr>
     <tr>
-      <td rowspan=2>Consume</td>
+      <td rowspan=2>Drain</td>
       <td>Harvest</td>
       <td rowspan=2>Reduce health of enemy units</td>
     </tr>
