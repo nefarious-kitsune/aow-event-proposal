@@ -1,4 +1,4 @@
-* [Main](index) > [Skill Elements](elements) > Natural Elements
+* [Main](index) > Skill Elements
 * [中文版](zh.elements)
 
 ## Skill Elements

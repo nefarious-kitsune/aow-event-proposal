@@ -1,5 +1,6 @@
 
-[Skill Elements](elements.md) > Natural Elements
+* [Main](zh.index) > [Skill Elements](elements) > Natural Elements
+* 中文版
 
 # Natural Elements
 

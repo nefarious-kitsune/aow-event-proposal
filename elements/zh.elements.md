@@ -1,9 +1,5 @@
-# 要素
-
-[AoW Ideas 計畫](https://github.com/nefarious-kitsune/aow.ideas):
-*玩家一些能幫助使遊戲更有趣的修改與改進的想法。*
-
-[English version](elements)
+* [首頁](zh.index) > 技能要素
+* [English version](elements)
 
 ## 技能要素
 

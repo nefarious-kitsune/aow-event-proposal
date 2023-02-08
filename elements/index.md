@@ -8,19 +8,15 @@ Various elements in the game are to be classified by
 * Attack Types
 * Skill Elements
 
-## Problem
+## Design Philosophy
 
-- Some skill elements have no weakness
-- Players often *stack* skill elements by using a large number of the *same* troops
-- The game sometimes feels like a monotonous war of *resource* rather than a war of *strategy*
-
-## Suggested Solution
-
-- Redesign control such that players need to use **a variety of troops** to maximize their skills
-- Split "control" into three distinct types: Disruptive, Stalling, and Transformation
-- Design controls such that each type has both **strength** and **weakness**
-- Design controls such that controls of same type cannot stack
-- Design controls such that controls of different type can **enhance** one another
+- To design a comprehensive system of elements with specific rules
+- To impose limit on creative freedom (so we don't end up with 1,000 different combat units)
+- To introduce *innate weakness* into various elements
+- To establish "X counters Y" relationship
+- To establish "X supports Y" relationship
+- To discourage **mono stacking** (e.g. putting 30 units of a certain troops on the field)
+- To encourage **mixing** (combining a variety of synergic units)
 
 ## Domains
 
@@ -63,6 +59,8 @@ Units are grouped into [domains](domains)
   </tbody>
 </table>
 
+**Note**
+Not all beasts are Wild. Wild specifically mean "untamed". Tamed beasts belong to the domain of their masters. For example, Davison's dragon belongs to the Human Domain, and Beast Master's bear belongs to the Divine Domain.
 
 ## Attack Types
 

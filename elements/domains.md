@@ -14,7 +14,44 @@
 
 ## Domains
 
-The Domain system creates 4 main groups, each with its own unique set of Skill Elements and properties
+The Domain system creates 5 main groups, each with its own unique set of Skill Elements and properties
+
+<table style="border-collapse: collapse; border: 1px solid">
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Entities</th>
+      <th>Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Human</td>
+      <td>Human beings and Human Tech</td>
+      <td>Human, seige weapon, tower</td>
+    </tr>
+    <tr>
+      <td>Wild*</td>
+      <td>Wild beings and Wild Tech</td>
+      <td>Beast, plant, fairy, goblin</td>
+    </tr>
+    <tr>
+      <td>Divine</td>
+      <td>Sacred beings</td>
+      <td>God, ascended humans</td>
+    </tr>
+    <tr>
+      <td>Chaos</td>
+      <td>Dark beings and Dark Relic</td>
+      <td>Demon, alien, ghost</td>
+    </tr>
+    <tr>
+      <td>Unknown</td>
+      <td>Titans</td>
+      <td>Cerberus, Cyclops, Ice Dragon</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Human Domain
 
