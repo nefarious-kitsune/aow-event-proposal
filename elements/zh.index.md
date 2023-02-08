@@ -1,4 +1,5 @@
-[English](elements)
+* 首頁
+* [English version](index)
 
 # Game Elements
 

@@ -1,5 +1,5 @@
 
-* [Main](zh.index) > [Skill Elements](elements) > Natural Elements
+* [Main](index) > [Skill Elements](elements) > Natural Elements
 * 中文版
 
 # Natural Elements

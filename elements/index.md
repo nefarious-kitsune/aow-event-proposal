@@ -1,4 +1,5 @@
-[中文版](zh.elements)
+* Main
+* [中文版](zh.elements)
 
 # Game Elements
 
